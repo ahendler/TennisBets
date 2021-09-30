@@ -5,7 +5,8 @@
 * Guilherme Zeferino Rodrigues Dobins - 236129
 * João Vitor Baptista Moreira - 237833
 
-# Etapas
+## Resumo do Projeto
+> Texto resumindo o projeto.
 
-* [Entrega Parcial](parcial/)
-* [Entrega Final](final/)
+## Slides da Apresentação
+> Coloque aqui o link para o PDF da apresentação
