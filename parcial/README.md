@@ -9,4 +9,4 @@
 > "Texto resumindo o projeto".
 
 ## Slides da Apresentação
-> Coloque Aqui o link para o PDF da apresentação
+> Coloque aqui o link para o PDF da apresentação
