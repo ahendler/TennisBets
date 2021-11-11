@@ -23,3 +23,6 @@ for _ in range(num_lines_women - 1):
 	if(not exists("../../data/raw/womenInstagramHTMLs/"+item[0]+".html")):
 		urllib.request.urlretrieve(item[-1], "../../data/raw/womenInstagramHTMLs/"+item[0]+".html")
 		#sleep(61)
+
+accounts_men.close()
+accounts_women.close()
