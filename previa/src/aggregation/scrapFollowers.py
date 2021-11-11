@@ -25,7 +25,7 @@ for _ in range(num_lines_men - 1):
             men_html = men_html_file.read()
             followers_start = men_html.find("edge_followed_by") + 27 # find in the html file the start of the value of followers
             followers = men_html[followers_start:men_html.find("}",followers_start)] # finds the end of the value
-            men_2021.write(item[0]+";"+followers+"\n")
+            men_2021.write(item[0]+","+followers+"\n")
             men_html_file.close()
 
 for _ in range(num_lines_women - 1):
@@ -39,7 +39,7 @@ for _ in range(num_lines_women - 1):
             women_html = women_html_file.read()
             followers_start = women_html.find("edge_followed_by") + 27 # find in the html file the start of the value of followers
             followers = women_html[followers_start:women_html.find("}",followers_start)] # finds the end of the value
-            women_2021.write(item[0]+";"+followers+"\n")
+            women_2021.write(item[0]+","+followers+"\n")
             women_html_file.close()
 
 men_2021.close()
