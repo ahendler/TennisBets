@@ -1,6 +1,6 @@
 
 men_players = open("../../data/raw/men_players.csv","r", newline='\n', encoding= 'utf-8')
-men_players_fix = open("../../data/interim/men_players.csv","w", newline='\n', encoding= 'utf-8')
+men_players_fix = open("../../data/processed/men_players.csv","w", newline='\n', encoding= 'utf-8')
 names = open("../../data/interim/players_names_non_duplicates.csv","r", newline='\n', encoding= 'utf-8')
 allnames = names.read()
 
@@ -18,6 +18,8 @@ for _ in range(num_lines_players - 1):
                 if l+" "+initial+'.' in allnames:
                     if len(item[6])<1:
                         item[6] = '180'
+                    if(len(item[4])<1 or len(item[5])<1 or len(item[3])<1):
+                        continue
                     men_players_fix.write(l+" "+initial+".,"+item[3]+","+item[4]+","+item[5]+","+item[6]+"\n")
                     allnames = allnames.replace(item[2]+" "+initial+".",'')
         '''if(item[2]+" "+initial+"." in allnames):
