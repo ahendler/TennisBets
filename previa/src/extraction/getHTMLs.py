@@ -16,12 +16,18 @@ for _ in range(num_lines_men - 1):
 	item = accounts_men.readline().replace('\x00','').split(',')
 	# if the file already exists, it does not request it again
 	if(not exists("../../data/raw/menInstagramHTMLs/"+item[0]+".html")):
-		urllib.request.urlretrieve(item[-1], "../../data/raw/menInstagramHTMLs/"+item[0]+".html")
+		try:	
+			urllib.request.urlretrieve(item[-1], "../../data/raw/menInstagramHTMLs/"+item[0]+".html")
+		except:
+			print("request failed")
 		#sleep(61) #avoids getting blocked by Instagram - might be better off without it
 for _ in range(num_lines_women - 1):
 	item = accounts_women.readline().replace('\x00','').split(',')
 	if(not exists("../../data/raw/womenInstagramHTMLs/"+item[0]+".html")):
-		urllib.request.urlretrieve(item[-1], "../../data/raw/womenInstagramHTMLs/"+item[0]+".html")
+		try:	
+			urllib.request.urlretrieve(item[-1], "../../data/raw/womenInstagramHTMLs/"+item[0]+".html")
+		except:
+			print("request failed")
 		#sleep(61)
 
 accounts_men.close()
