@@ -1452,7 +1452,7 @@ Antalya Open,6/23/2019,Sonego L.,Sousa J.,2.53,1.51,1st Round,2.0,0.0
 Antalya Open,6/24/2019,Dzumhur D.,Ebden M.,2.41,1.56,1st Round,2.0,0.0
 Antalya Open,6/24/2019,Gunneswaran P.,Tipsarevic J.,2.38,1.57,1st Round,2.0,0.0
 Antalya Open,6/24/2019,Klahn B.,Darcis S.,2.63,1.48,1st Round,2.0,0.0
-Antalya Open,6/24/2019,Carballes Baena R.,Aragone JC,1.56,2.41,1st Round,2.0,0.0
+Antalya Open,6/24/2019,Carballes Baena R.,Aragone J.C.,1.56,2.41,1st Round,2.0,0.0
 Antalya Open,6/24/2019,Humbert U.,Delbonis F.,1.38,3.02,1st Round,2.0,0.0
 Antalya Open,6/24/2019,Celikbilek A.,Gulbis E.,5.03,1.17,1st Round,2.0,1.0
 Antalya Open,6/24/2019,Troicki V.,Kovalik J.,1.3,3.52,1st Round,2.0,0.0
@@ -1718,7 +1718,7 @@ BB&T Atlanta Open,7/23/2019,Opelka R.,Bublik A.,1.35,3.16,1st Round,2.0,0.0
 BB&T Atlanta Open,7/23/2019,Evans D.,Jung J.,1.37,3.09,1st Round,2.0,0.0
 BB&T Atlanta Open,7/23/2019,Tomic B.,Tiafoe F.,3.52,1.3,1st Round,2.0,1.0
 BB&T Atlanta Open,7/23/2019,Albot R.,Sandgren T.,1.78,2.03,1st Round,2.0,0.0
-BB&T Atlanta Open,7/24/2019,Humbert U.,Gromley C.,1.04,10.94,1st Round,2.0,0.0
+BB&T Atlanta Open,7/24/2019,Humbert U.,Berg C.,1.04,10.94,1st Round,2.0,0.0
 BB&T Atlanta Open,7/24/2019,Kecmanovic M.,Sock J.,1.36,3.13,1st Round,2.0,0.0
 BB&T Atlanta Open,7/24/2019,King K.,Dimitrov G.,5.84,1.13,1st Round,2.0,0.0
 BB&T Atlanta Open,7/24/2019,Popyrin A.,Herbert P.H.,1.9,1.9,2nd Round,2.0,0.0
@@ -2735,7 +2735,7 @@ Australian Open,1/21/2020,Verdasco F.,Donskoy E.,1.33,3.29,1st Round,3.0,0.0
 Australian Open,1/21/2020,Bolt A.,Ramos-Vinolas A.,2.33,1.6,1st Round,3.0,2.0
 Australian Open,1/21/2020,Seppi A.,Kecmanovic M.,2.7,1.47,1st Round,3.0,0.0
 Australian Open,1/21/2020,Popyrin A.,Tsonga J.W.,2.48,1.54,1st Round,2.0,1.0
-Australian Open,1/21/2020,Rublev A.,O'Connell C.,1.04,11.29,1st Round,3.0,1.0
+Australian Open,1/21/2020,Rublev A.,O Connell C.,1.04,11.29,1st Round,3.0,1.0
 Australian Open,1/21/2020,Gojowczyk P.,Eubanks C.,1.54,2.47,1st Round,3.0,1.0
 Australian Open,1/21/2020,Sugita Y.,Benchetrit E.,1.44,2.78,1st Round,3.0,0.0
 Australian Open,1/21/2020,Herbert P.H.,Norrie C.,1.63,2.29,1st Round,3.0,2.0
@@ -3055,7 +3055,7 @@ Rio Open,2/18/2020,Munar J.,Caruso S.,1.56,2.39,1st Round,2.0,0.0
 Rio Open,2/18/2020,Sonego L.,Mayer L.,1.87,1.91,1st Round,2.0,1.0
 Rio Open,2/18/2020,Domingues J.,Gaio F.,1.79,1.94,1st Round,2.0,0.0
 Rio Open,2/18/2020,Mager G.,Ruud C.,4.08,1.23,1st Round,2.0,0.0
-Rio Open,2/18/2020,Thiem D.,Meligeni Rodrigues F,1.01,19.41,1st Round,2.0,1.0
+Rio Open,2/18/2020,Thiem D.,Meligeni Rodrigues F.,1.01,19.41,1st Round,2.0,1.0
 Rio Open,2/19/2020,Monteiro T.,Pella G.,2.04,1.76,1st Round,2.0,1.0
 Rio Open,2/19/2020,Garin C.,Delbonis F.,1.52,2.5,2nd Round,2.0,0.0
 Rio Open,2/19/2020,Martinez P.,Andujar P.,2.37,1.57,2nd Round,2.0,0.0
@@ -4372,7 +4372,7 @@ Chile Open,3/8/2021,Tiafoe F.,Jarry N.,1.49,2.59,1st Round,2.0,1.0
 Chile Open,3/9/2021,Coria F.,Mager G.,2.1,1.73,1st Round,2.0,1.0
 Chile Open,3/9/2021,Delbonis F.,Munar J.,2.43,1.55,1st Round,2.0,1.0
 Chile Open,3/9/2021,Tabilo A.,Kovalik J.,1.74,2.08,1st Round,2.0,1.0
-Chile Open,3/9/2021,Varillas J. P.,Sousa J.,1.33,3.26,1st Round,2.0,0.0
+Chile Open,3/9/2021,Varillas J.P.,Sousa J.,1.33,3.26,1st Round,2.0,0.0
 Chile Open,3/9/2021,Rune H.,Baez S.,3.07,1.37,1st Round,2.0,0.0
 Chile Open,3/9/2021,Martin A.,Cerundolo F.,2.11,1.72,1st Round,2.0,0.0
 Chile Open,3/9/2021,Cerundolo J.M.,Lama G.,1.22,4.21,1st Round,2.0,0.0
@@ -4382,11 +4382,11 @@ Chile Open,3/10/2021,Delbonis F.,Martin A.,1.56,2.4,2nd Round,2.0,0.0
 Chile Open,3/10/2021,Rune H.,Paire B.,1.57,2.4,2nd Round,2.0,0.0
 Chile Open,3/11/2021,Galan D.E.,Andujar P.,2.36,1.58,2nd Round,2.0,0.0
 Chile Open,3/11/2021,Carballes Baena R.,Cerundolo J.M.,1.69,2.16,2nd Round,2.0,0.0
-Chile Open,3/11/2021,Varillas J. P.,Coria F.,2.24,1.64,2nd Round,2.0,0.0
+Chile Open,3/11/2021,Varillas J.P.,Coria F.,2.24,1.64,2nd Round,2.0,0.0
 Chile Open,3/11/2021,Garin C.,Tabilo A.,1.5,2.56,2nd Round,2.0,0.0
 Chile Open,3/12/2021,Bagnis F.,Djere L.,2.19,1.67,Quarterfinals,2.0,1.0
 Chile Open,3/12/2021,Delbonis F.,Rune H.,1.51,2.54,Quarterfinals,2.0,0.0
-Chile Open,3/12/2021,Garin C.,Varillas J. P.,1.33,3.3,Quarterfinals,2.0,0.0
+Chile Open,3/12/2021,Garin C.,Varillas J.P.,1.33,3.3,Quarterfinals,2.0,0.0
 Chile Open,3/12/2021,Galan D.E.,Carballes Baena R.,2.09,1.74,Quarterfinals,2.0,0.0
 Chile Open,3/13/2021,Bagnis F.,Delbonis F.,2.24,1.65,Semifinals,2.0,0.0
 Chile Open,3/13/2021,Garin C.,Galan D.E.,1.47,2.68,Semifinals,2.0,0.0
@@ -5445,7 +5445,7 @@ European Open,7/12/2021,Seyboth Wild T.,Kuhn N.,1.29,3.54,1st Round,2.0,1.0
 European Open,7/12/2021,Baez S.,Moutet C.,1.93,1.87,1st Round,2.0,0.0
 European Open,7/12/2021,Kohlschreiber P.,Munar J.,2.19,1.67,1st Round,2.0,0.0
 European Open,7/12/2021,Paire B.,Berankis R.,2.2,1.67,1st Round,0.0,0.0
-European Open,7/13/2021,Varillas J. P.,Nagal S.,1.56,2.4,1st Round,2.0,0.0
+European Open,7/13/2021,Varillas J.P.,Nagal S.,1.56,2.4,1st Round,2.0,0.0
 European Open,7/13/2021,Taberner C.,Lopez F.,1.3,3.41,1st Round,2.0,1.0
 European Open,7/13/2021,Delbonis F.,Zhang Zh.,1.31,3.41,1st Round,2.0,1.0
 European Open,7/13/2021,Krajinovic F.,Altmaier D.,1.96,1.83,1st Round,2.0,1.0
@@ -5460,7 +5460,7 @@ European Open,7/15/2021,Basilashvili N.,Baez S.,1.58,2.36,2nd Round,,
 European Open,7/15/2021,Lajovic D.,Molcan A.,1.83,1.96,2nd Round,2.0,1.0
 European Open,7/15/2021,Carreno Busta P.,Taberner C.,1.28,3.67,2nd Round,2.0,0.0
 European Open,7/15/2021,Delbonis F.,Ramos-Vinolas A.,1.63,2.25,2nd Round,2.0,0.0
-European Open,7/15/2021,Paire B.,Varillas J. P.,2.76,1.44,2nd Round,2.0,0.0
+European Open,7/15/2021,Paire B.,Varillas J.P.,2.76,1.44,2nd Round,2.0,0.0
 European Open,7/16/2021,Djere L.,Basilashvili N.,1.55,2.43,Quarterfinals,2.0,0.0
 European Open,7/16/2021,Krajinovic F.,Tsitsipas S.,6.65,1.11,Quarterfinals,2.0,1.0
 European Open,7/16/2021,Carreno Busta P.,Lajovic D.,1.28,3.62,Quarterfinals,2.0,0.0
@@ -7480,7 +7480,7 @@ Lyon Open,5/21/2018,Coria F.,Kicker N.,4.27,1.21,1st Round,2.0,1.0
 Lyon Open,5/21/2018,Carballes Baena R.,Djere L.,1.76,2.06,1st Round,2.0,1.0
 Lyon Open,5/21/2018,Garcia-Lopez G.,Mannarino A.,1.9,1.89,1st Round,2.0,1.0
 Lyon Open,5/21/2018,Simon G.,Samper-Montana J.,1.13,5.88,1st Round,2.0,0.0
-Lyon Open,5/21/2018,Norrie C.,Hernandez-Fernandez J,1.51,2.57,1st Round,2.0,0.0
+Lyon Open,5/21/2018,Norrie C.,Hernandez-Fernandez J.,1.51,2.57,1st Round,2.0,0.0
 Lyon Open,5/21/2018,Marterer M.,Monfils G.,2.56,1.51,1st Round,2.0,1.0
 Lyon Open,5/22/2018,Kukushkin M.,Barrere G.,1.58,2.38,1st Round,2.0,0.0
 Lyon Open,5/22/2018,Fritz T.,Ebden M.,1.3,3.54,1st Round,2.0,0.0
@@ -7955,7 +7955,7 @@ Hall of Fame Championships,7/16/2018,Kudla D.,Bemelmans R.,1.49,2.63,1st Round,2
 Hall of Fame Championships,7/16/2018,Pospisil V.,Young D.,1.61,2.33,1st Round,2.0,0.0
 Hall of Fame Championships,7/16/2018,Thompson J.,Duckworth J.,1.56,2.44,1st Round,2.0,0.0
 Hall of Fame Championships,7/16/2018,Smyczek T.,Fratangelo B.,1.75,2.08,1st Round,2.0,1.0
-Hall of Fame Championships,7/17/2018,Granollers M.,Aragone J.,1.42,2.87,1st Round,2.0,0.0
+Hall of Fame Championships,7/17/2018,Granollers M.,Aragone J.C.,1.42,2.87,1st Round,2.0,0.0
 Hall of Fame Championships,7/17/2018,Jung J.,Stakhovsky S.,3.03,1.38,1st Round,2.0,1.0
 Hall of Fame Championships,7/17/2018,Sela D.,Tomic B.,3.63,1.29,1st Round,2.0,1.0
 Hall of Fame Championships,7/17/2018,Muller G.,Baghdatis M.,1.98,1.82,1st Round,2.0,0.0
@@ -9020,7 +9020,7 @@ ASB Classic,1/14/2017,Sock J.,Sousa J.,1.4,2.93,The Final,2.0,1.0
 Apia International,1/8/2017,Mahut N.,Bellucci T.,1.65,2.19,1st Round,2.0,0.0
 Apia International,1/9/2017,Barton M.,Edmund K.,3.57,1.28,1st Round,2.0,0.0
 Apia International,1/9/2017,Evans D.,Monteiro T.,1.43,2.78,1st Round,2.0,1.0
-Apia International,1/9/2017,Elias G.,O'Connell C.,1.63,2.25,1st Round,2.0,1.0
+Apia International,1/9/2017,Elias G.,O Connell C.,1.63,2.25,1st Round,2.0,1.0
 Apia International,1/9/2017,Lorenzi P.,Mayer F.,2.05,1.75,1st Round,2.0,1.0
 Apia International,1/9/2017,Kohlschreiber P.,Fognini F.,1.58,2.32,1st Round,2.0,0.0
 Apia International,1/10/2017,De Minaur A.,Paire B.,2.43,1.54,1st Round,2.0,1.0
@@ -9105,7 +9105,7 @@ Australian Open,1/17/2017,Ferrer D.,Jasika O.,1.15,5.14,1st Round,3.0,0.0
 Australian Open,1/17/2017,Paire B.,Haas T.,1.22,4.16,1st Round,2.0,0.0
 Australian Open,1/17/2017,Monfils G.,Vesely J.,1.28,3.58,1st Round,3.0,0.0
 Australian Open,1/17/2017,Fognini F.,Lopez F.,2.15,1.68,1st Round,3.0,0.0
-Australian Open,1/17/2017,Dimitrov G.,O'Connell C.,1.02,14.01,1st Round,3.0,0.0
+Australian Open,1/17/2017,Dimitrov G.,O Connell C.,1.02,14.01,1st Round,3.0,0.0
 Australian Open,1/17/2017,Djokovic N.,Verdasco F.,1.06,9.53,1st Round,3.0,0.0
 Australian Open,1/17/2017,Istomin D.,Dodig I.,2.01,1.77,1st Round,3.0,1.0
 Australian Open,1/18/2017,Nishikori K.,Chardy J.,1.08,7.67,2nd Round,3.0,0.0
@@ -10987,7 +10987,7 @@ US Open,8/28/2017,Carreno Busta P.,King E.,1.08,7.8,1st Round,3.0,0.0
 US Open,8/28/2017,Chung H.,Zeballos H.,1.25,3.94,1st Round,3.0,1.0
 US Open,8/28/2017,Johnson S.,Almagro N.,1.12,6.05,1st Round,3.0,0.0
 US Open,8/28/2017,Norrie C.,Tursunov D.,1.44,2.76,1st Round,2.0,0.0
-US Open,8/28/2017,Anderson K.,Aragone J.,1.03,12.99,1st Round,3.0,0.0
+US Open,8/28/2017,Anderson K.,Aragone J.C.,1.03,12.99,1st Round,3.0,0.0
 US Open,8/28/2017,Kukushkin M.,Ferrer D.,4.52,1.2,1st Round,3.0,1.0
 US Open,8/28/2017,Donskoy E.,Haider-Maurer A.,1.28,3.68,1st Round,1.0,0.0
 US Open,8/28/2017,Cilic M.,Sandgren T.,1.04,10.93,1st Round,3.0,1.0
@@ -11137,7 +11137,7 @@ Open de Moselle,9/23/2017,Paire B.,Basilashvili N.,1.51,2.58,Semifinals,2.0,0.0
 Open de Moselle,9/24/2017,Gojowczyk P.,Paire B.,2.52,1.53,The Final,1.0,0.0
 St. Petersburg Open,9/18/2017,Baghdatis M.,Zeballos H.,1.45,2.72,1st Round,2.0,0.0
 St. Petersburg Open,9/18/2017,Dzumhur D.,Lorenzi P.,1.61,2.3,1st Round,2.0,0.0
-St. Petersburg Open,9/18/2017,Kohlschreiber P.,Tyurnev E.,1.05,10.17,1st Round,2.0,0.0
+St. Petersburg Open,9/18/2017,Kohlschreiber P.,Tiurnev E.,1.05,10.17,1st Round,2.0,0.0
 St. Petersburg Open,9/19/2017,Berankis R.,Masur D.,1.57,2.38,1st Round,2.0,1.0
 St. Petersburg Open,9/19/2017,Broady L.,Gulbis E.,3.41,1.31,1st Round,2.0,0.0
 St. Petersburg Open,9/19/2017,Youzhny M.,Smith J.P.,1.45,2.73,1st Round,2.0,0.0
@@ -11593,7 +11593,7 @@ Chennai Open,1/9/2016,Wawrinka S.,Paire B.,1.2,4.46,Semifinals,2.0,0.0
 Chennai Open,1/9/2016,Coric B.,Bedene A.,1.52,2.51,Semifinals,2.0,1.0
 Chennai Open,1/10/2016,Wawrinka S.,Coric B.,1.13,5.95,The Final,2.0,0.0
 Qatar Exxon Mobil Open,1/4/2016,Dzumhur D.,Cecchinato M.,1.48,2.6,1st Round,2.0,0.0
-Qatar Exxon Mobil Open,1/4/2016,Chardy J.,Zayid M. S.,1.01,26.32,1st Round,2.0,0.0
+Qatar Exxon Mobil Open,1/4/2016,Chardy J.,Zayid M.S.,1.01,26.32,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/4/2016,Edmund K.,Klizan M.,1.75,2.05,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/4/2016,Djokovic N.,Brown D.,1.01,16.74,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/4/2016,Haase R.,Karatsev A.,1.52,2.49,1st Round,2.0,1.0
@@ -12172,7 +12172,7 @@ BNP Paribas Open,3/11/2016,Mannarino A.,Rosol L.,2.17,1.67,1st Round,2.0,1.0
 BNP Paribas Open,3/11/2016,Pospisil V.,Donaldson J.,1.39,2.95,1st Round,2.0,1.0
 BNP Paribas Open,3/12/2016,Garcia-Lopez G.,Gulbis E.,1.82,1.95,1st Round,2.0,0.0
 BNP Paribas Open,3/12/2016,Fratangelo B.,Gabashvili T.,2.71,1.45,1st Round,2.0,0.0
-BNP Paribas Open,3/12/2016,Kovalik J.,Herbert P.H,3.57,1.28,1st Round,2.0,1.0
+BNP Paribas Open,3/12/2016,Kovalik J.,Herbert P.H.,3.57,1.28,1st Round,2.0,1.0
 BNP Paribas Open,3/12/2016,Kudla D.,Istomin D.,2.17,1.65,1st Round,2.0,1.0
 BNP Paribas Open,3/12/2016,Millman J.,Sarkissian A.,1.26,3.79,1st Round,2.0,0.0
 BNP Paribas Open,3/12/2016,Millot V.,Mcdonald M.,1.27,3.6,1st Round,2.0,0.0
@@ -12271,7 +12271,7 @@ Sony Ericsson Open,3/24/2016,Ito T.,Mahut N.,2.51,1.51,1st Round,2.0,0.0
 Sony Ericsson Open,3/24/2016,Giraldo S.,Mathieu P.H.,2.27,1.61,1st Round,2.0,1.0
 Sony Ericsson Open,3/24/2016,Kudla D.,Chung H.,2.77,1.43,1st Round,2.0,1.0
 Sony Ericsson Open,3/24/2016,Dzumhur D.,Mayer L.,3.72,1.26,1st Round,2.0,1.0
-Sony Ericsson Open,3/24/2016,Herbert P.H,Rosol L.,1.75,2.05,1st Round,2.0,0.0
+Sony Ericsson Open,3/24/2016,Herbert P.H.,Rosol L.,1.75,2.05,1st Round,2.0,0.0
 Sony Ericsson Open,3/24/2016,Stakhovsky S.,Jarry N.,1.35,3.15,1st Round,2.0,0.0
 Sony Ericsson Open,3/24/2016,Delbonis F.,Ymer E.,1.34,3.18,1st Round,2.0,1.0
 Sony Ericsson Open,3/25/2016,Baghdatis M.,Becker B.,1.4,2.91,1st Round,2.0,0.0
@@ -12291,7 +12291,7 @@ Sony Ericsson Open,3/25/2016,Troicki V.,Cervantes I.,1.36,3.1,2nd Round,2.0,1.0
 Sony Ericsson Open,3/25/2016,Johnson S.,Zverev A.,2.1,1.72,2nd Round,2.0,0.0
 Sony Ericsson Open,3/26/2016,Gasquet R.,Ramos-Vinolas A.,1.19,4.62,2nd Round,2.0,0.0
 Sony Ericsson Open,3/26/2016,Djokovic N.,Edmund K.,1.01,19.74,2nd Round,2.0,0.0
-Sony Ericsson Open,3/26/2016,Nishikori K.,Herbert P.H,1.14,5.51,2nd Round,2.0,0.0
+Sony Ericsson Open,3/26/2016,Nishikori K.,Herbert P.H.,1.14,5.51,2nd Round,2.0,0.0
 Sony Ericsson Open,3/26/2016,Raonic M.,Kudla D.,1.1,6.87,2nd Round,2.0,0.0
 Sony Ericsson Open,3/26/2016,Dolgopolov O.,Seppi A.,1.43,2.79,2nd Round,2.0,0.0
 Sony Ericsson Open,3/26/2016,Kuznetsov An.,Wawrinka S.,4.24,1.21,2nd Round,2.0,0.0
@@ -12399,7 +12399,7 @@ Monte Carlo Masters,4/11/2016,Bautista Agut R.,Ramos-Vinolas A.,1.38,2.99,1st Ro
 Monte Carlo Masters,4/11/2016,Garcia-Lopez G.,Bellucci T.,1.75,2.06,1st Round,2.0,0.0
 Monte Carlo Masters,4/11/2016,Bedene A.,Rosol L.,1.82,1.96,1st Round,2.0,0.0
 Monte Carlo Masters,4/11/2016,Monfils G.,Muller G.,1.15,5.23,1st Round,2.0,0.0
-Monte Carlo Masters,4/11/2016,Herbert P.H,Pella G.,2.88,1.4,1st Round,2.0,0.0
+Monte Carlo Masters,4/11/2016,Herbert P.H.,Pella G.,2.88,1.4,1st Round,2.0,0.0
 Monte Carlo Masters,4/11/2016,Dimitrov G.,Krajinovic F.,1.21,4.34,1st Round,2.0,0.0
 Monte Carlo Masters,4/11/2016,Gasquet R.,Almagro N.,1.35,3.16,1st Round,2.0,0.0
 Monte Carlo Masters,4/11/2016,Carreno Busta P.,Robert S.,1.31,3.39,1st Round,2.0,0.0
@@ -12417,7 +12417,7 @@ Monte Carlo Masters,4/12/2016,Goffin D.,Lopez F.,1.26,3.8,1st Round,2.0,0.0
 Monte Carlo Masters,4/12/2016,Verdasco F.,Delbonis F.,2.14,1.69,1st Round,2.0,0.0
 Monte Carlo Masters,4/12/2016,Lorenzi P.,Fognini F.,2.78,1.42,1st Round,2.0,1.0
 Monte Carlo Masters,4/12/2016,Simon G.,Dimitrov G.,1.79,2.01,2nd Round,2.0,0.0
-Monte Carlo Masters,4/12/2016,Murray A.,Herbert P.H,1.07,8.15,2nd Round,2.0,1.0
+Monte Carlo Masters,4/12/2016,Murray A.,Herbert P.H.,1.07,8.15,2nd Round,2.0,1.0
 Monte Carlo Masters,4/12/2016,Federer R.,Garcia-Lopez G.,1.13,5.73,2nd Round,2.0,0.0
 Monte Carlo Masters,4/12/2016,Tsonga J.W.,Carreno Busta P.,1.33,3.26,2nd Round,2.0,0.0
 Monte Carlo Masters,4/12/2016,Bautista Agut R.,Chardy J.,1.42,2.82,2nd Round,2.0,1.0
@@ -14638,7 +14638,7 @@ Open 13,2/17/2015,Paire B.,Mathieu P.H.,1.89,1.86,1st Round,1.0,0.0
 Open 13,2/17/2015,Monfils G.,Zverev A.,1.14,5.45,1st Round,2.0,0.0
 Open 13,2/18/2015,Goffin D.,Janowicz J.,1.59,2.29,1st Round,2.0,0.0
 Open 13,2/18/2015,Bolelli S.,Vanni L.,1.13,5.66,1st Round,2.0,0.0
-Open 13,2/18/2015,Simon G.,Herbert P.H,1.22,4.12,1st Round,1.0,0.0
+Open 13,2/18/2015,Simon G.,Herbert P.H.,1.22,4.12,1st Round,1.0,0.0
 Open 13,2/18/2015,Stakhovsky S.,Struff J.L.,1.68,2.14,2nd Round,2.0,1.0
 Open 13,2/18/2015,Monfils G.,Kuznetsov An.,1.12,5.61,2nd Round,2.0,0.0
 Open 13,2/18/2015,Bautista R.,Pospisil V.,1.54,2.4,2nd Round,2.0,0.0
@@ -16197,7 +16197,7 @@ Winston-Salem Open at Wake Forest University,8/23/2015,Chung H.,Ward J.,1.24,3.9
 Winston-Salem Open at Wake Forest University,8/24/2015,Groth S.,Donaldson J.,1.49,2.55,1st Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/24/2015,Kukushkin M.,Mahut N.,1.52,2.48,1st Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/24/2015,Bolelli S.,Delbonis F.,1.45,2.67,1st Round,2.0,0.0
-Winston-Salem Open at Wake Forest University,8/24/2015,Herbert P.H,Stakhovsky S.,1.96,1.8,1st Round,2.0,0.0
+Winston-Salem Open at Wake Forest University,8/24/2015,Herbert P.H.,Stakhovsky S.,1.96,1.8,1st Round,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/24/2015,Klizan M.,Ilhan M.,1.4,2.89,1st Round,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/24/2015,Rosol L.,Gulbis E.,2.29,1.6,1st Round,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/24/2015,Bedene A.,Cecchinato M.,1.28,3.53,1st Round,2.0,0.0
@@ -16217,7 +16217,7 @@ Winston-Salem Open at Wake Forest University,8/25/2015,Gabashvili T.,Kokkinakis 
 Winston-Salem Open at Wake Forest University,8/25/2015,Bellucci T.,Tiafoe F.,1.23,3.98,2nd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/25/2015,Bedene A.,Simon G.,3.12,1.34,2nd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/25/2015,Chung H.,Paire B.,2.06,1.73,2nd Round,2.0,0.0
-Winston-Salem Open at Wake Forest University,8/25/2015,Herbert P.H,Baghdatis M.,2.38,1.56,2nd Round,2.0,1.0
+Winston-Salem Open at Wake Forest University,8/25/2015,Herbert P.H.,Baghdatis M.,2.38,1.56,2nd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/26/2015,Jaziri M.,Troicki V.,2.94,1.39,2nd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/26/2015,Tsonga J.W.,Istomin D.,1.26,3.76,2nd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/26/2015,Carreno-Busta P.,Sousa J.,2.26,1.62,2nd Round,2.0,0.0
@@ -16228,15 +16228,15 @@ Winston-Salem Open at Wake Forest University,8/26/2015,Jaziri M.,Gabashvili T.,2
 Winston-Salem Open at Wake Forest University,8/26/2015,Coric B.,Schwartzman D.,1.27,3.69,3rd Round,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/26/2015,Bellucci T.,Vesely J.,1.86,1.9,3rd Round,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/26/2015,Carreno-Busta P.,Bolelli S.,2.27,1.61,3rd Round,2.0,1.0
-Winston-Salem Open at Wake Forest University,8/26/2015,Herbert P.H,Bedene A.,2.4,1.55,3rd Round,2.0,0.0
+Winston-Salem Open at Wake Forest University,8/26/2015,Herbert P.H.,Bedene A.,2.4,1.55,3rd Round,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/27/2015,Johnson S.,Tsonga J.W.,3.17,1.34,3rd Round,2.0,1.0
-Winston-Salem Open at Wake Forest University,8/27/2015,Herbert P.H,Carreno-Busta P.,1.78,2.0,Quarterfinals,2.0,1.0
+Winston-Salem Open at Wake Forest University,8/27/2015,Herbert P.H.,Carreno-Busta P.,1.78,2.0,Quarterfinals,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/27/2015,Johnson S.,Lu Y.H.,1.53,2.45,Quarterfinals,,
 Winston-Salem Open at Wake Forest University,8/28/2015,Anderson K.,Coric B.,1.48,2.58,Quarterfinals,2.0,0.0
 Winston-Salem Open at Wake Forest University,8/28/2015,Jaziri M.,Bellucci T.,2.92,1.39,Quarterfinals,2.0,0.0
-Winston-Salem Open at Wake Forest University,8/28/2015,Herbert P.H,Johnson S.,2.7,1.45,Semifinals,2.0,1.0
+Winston-Salem Open at Wake Forest University,8/28/2015,Herbert P.H.,Johnson S.,2.7,1.45,Semifinals,2.0,1.0
 Winston-Salem Open at Wake Forest University,8/29/2015,Anderson K.,Jaziri M.,1.16,5.11,Semifinals,2.0,0.0
-Winston-Salem Open at Wake Forest University,8/29/2015,Anderson K.,Herbert P.H,1.24,3.99,The Final,2.0,0.0
+Winston-Salem Open at Wake Forest University,8/29/2015,Anderson K.,Herbert P.H.,1.24,3.99,The Final,2.0,0.0
 US Open,8/31/2015,Fish M.,Cecchinato M.,1.2,4.44,1st Round,3.0,1.0
 US Open,8/31/2015,Goffin D.,Bolelli S.,1.26,3.73,1st Round,3.0,0.0
 US Open,8/31/2015,Dimitrov G.,Ebden M.,1.06,9.38,1st Round,3.0,0.0
@@ -16258,7 +16258,7 @@ US Open,8/31/2015,Cilic M.,Pella G.,1.07,9.04,1st Round,3.0,0.0
 US Open,8/31/2015,Donskoy E.,Pouille L.,1.54,2.43,1st Round,3.0,1.0
 US Open,8/31/2015,Ferrer D.,Albot R.,1.09,6.98,1st Round,3.0,1.0
 US Open,8/31/2015,Robredo T.,Berrer M.,1.21,4.26,1st Round,3.0,0.0
-US Open,8/31/2015,Bautista R.,Herbert P.H,1.24,3.97,1st Round,3.0,0.0
+US Open,8/31/2015,Bautista R.,Herbert P.H.,1.24,3.97,1st Round,3.0,0.0
 US Open,8/31/2015,Djokovic N.,Souza J.,1.01,26.17,1st Round,3.0,0.0
 US Open,8/31/2015,Krajinovic F.,Gonzalez A.,1.58,2.35,1st Round,3.0,0.0
 US Open,8/31/2015,Carreno-Busta P.,Janowicz J.,2.63,1.48,1st Round,3.0,1.0
@@ -16375,11 +16375,11 @@ Open de Moselle,9/23/2015,Kohlschreiber P.,Millman J.,1.27,3.66,1st Round,2.0,0.
 Open de Moselle,9/23/2015,Brown D.,Ram R.,1.81,1.96,1st Round,2.0,1.0
 Open de Moselle,9/23/2015,Lorenzi P.,Darcis S.,2.61,1.47,1st Round,2.0,1.0
 Open de Moselle,9/23/2015,Mahut N.,Delbonis F.,1.27,3.67,1st Round,2.0,0.0
-Open de Moselle,9/23/2015,Herbert P.H,Stakhovsky S.,1.62,2.25,1st Round,2.0,0.0
+Open de Moselle,9/23/2015,Herbert P.H.,Stakhovsky S.,1.62,2.25,1st Round,2.0,0.0
 Open de Moselle,9/24/2015,Klizan M.,Pospisil V.,2.44,1.54,2nd Round,2.0,0.0
 Open de Moselle,9/23/2015,Tsonga J.W.,Zverev M.,1.08,7.45,2nd Round,2.0,1.0
 Open de Moselle,9/23/2015,Muller G.,Verdasco F.,1.68,2.15,2nd Round,2.0,0.0
-Open de Moselle,9/24/2015,Garcia-Lopez G.,Herbert P.H,2.29,1.61,2nd Round,2.0,1.0
+Open de Moselle,9/24/2015,Garcia-Lopez G.,Herbert P.H.,2.29,1.61,2nd Round,2.0,1.0
 Open de Moselle,9/24/2015,Kohlschreiber P.,Lorenzi P.,1.08,7.86,2nd Round,2.0,0.0
 Open de Moselle,9/24/2015,Mahut N.,Mannarino A.,1.74,2.06,2nd Round,2.0,1.0
 Open de Moselle,9/24/2015,Wawrinka S.,Brown D.,1.21,4.34,2nd Round,2.0,1.0
@@ -16745,7 +16745,7 @@ BNP Paribas Masters,11/2/2015,Dimitrov G.,Carreno-Busta P.,1.23,4.11,1st Round,2
 BNP Paribas Masters,11/3/2015,Roger-Vasselin E.,Karlovic I.,2.92,1.39,1st Round,2.0,1.0
 BNP Paribas Masters,11/3/2015,Chardy J.,Pouille L.,1.4,2.91,1st Round,2.0,1.0
 BNP Paribas Masters,11/3/2015,Troicki V.,Sock J.,3.1,1.35,1st Round,2.0,0.0
-BNP Paribas Masters,11/3/2015,Bautista R.,Herbert P.H,1.51,2.5,1st Round,2.0,1.0
+BNP Paribas Masters,11/3/2015,Bautista R.,Herbert P.H.,1.51,2.5,1st Round,2.0,1.0
 BNP Paribas Masters,11/3/2015,Coric B.,Verdasco F.,2.15,1.68,1st Round,2.0,0.0
 BNP Paribas Masters,11/3/2015,Rosol L.,Garcia-Lopez G.,1.82,1.95,1st Round,2.0,1.0
 BNP Paribas Masters,11/3/2015,Ferrer D.,Dolgopolov O.,1.22,4.22,2nd Round,2.0,0.0
@@ -16909,7 +16909,7 @@ Heineken Open,1/11/2014,Isner J.,Lu Y.H.,1.43,2.75,The Final,2.0,0.0
 Apia International,1/6/2014,Istomin D.,Andujar P.,1.2,4.39,1st Round,2.0,0.0
 Apia International,1/6/2014,Benneteau J.,Ebden M.,1.65,2.19,1st Round,2.0,0.0
 Apia International,1/6/2014,Rosol L.,Sousa J.,1.67,2.15,1st Round,2.0,1.0
-Apia International,1/7/2014,Cilic M.,Struff J-L.,1.16,5.01,1st Round,2.0,1.0
+Apia International,1/7/2014,Cilic M.,Struff J.L.,1.16,5.01,1st Round,2.0,1.0
 Apia International,1/7/2014,Mahut N.,Harrison R.,1.96,1.8,1st Round,2.0,0.0
 Apia International,1/7/2014,Ramos A.,Querrey S.,4.19,1.22,1st Round,2.0,1.0
 Apia International,1/7/2014,Stepanek R.,Groth S.,1.22,4.09,1st Round,2.0,1.0
@@ -19007,11 +19007,11 @@ Open de Moselle,9/17/2014,Tsonga J.W.,Muller G.,1.21,4.22,2nd Round,2.0,0.0
 Open de Moselle,9/17/2014,Mathieu P.H.,Rosol L.,1.82,1.96,2nd Round,2.0,0.0
 Open de Moselle,9/18/2014,Goffin D.,Kamke T.,1.25,3.82,2nd Round,2.0,0.0
 Open de Moselle,9/18/2014,Sousa J.,Sijsling I.,1.8,1.97,2nd Round,2.0,1.0
-Open de Moselle,9/18/2014,Kohlschreiber P..,Lorenzi P.,1.15,5.27,2nd Round,2.0,0.0
+Open de Moselle,9/18/2014,Kohlschreiber P.,Lorenzi P.,1.15,5.27,2nd Round,2.0,0.0
 Open de Moselle,9/18/2014,Struff J.L.,Chardy J.,2.55,1.49,2nd Round,2.0,1.0
 Open de Moselle,9/18/2014,Monfils G.,Przysiezny M.,1.08,7.8,2nd Round,2.0,0.0
 Open de Moselle,9/18/2014,Janowicz J.,Nieminen J.,1.58,2.34,2nd Round,2.0,0.0
-Open de Moselle,9/19/2014,Struff J.L.,Kohlschreiber P..,3.04,1.37,Quarterfinals,0.0,0.0
+Open de Moselle,9/19/2014,Struff J.L.,Kohlschreiber P.,3.04,1.37,Quarterfinals,0.0,0.0
 Open de Moselle,9/19/2014,Goffin D.,Tsonga J.W.,2.79,1.42,Quarterfinals,2.0,1.0
 Open de Moselle,9/19/2014,Monfils G.,Janowicz J.,1.36,3.06,Quarterfinals,2.0,0.0
 Open de Moselle,9/19/2014,Sousa J.,Mathieu P.H.,2.25,1.62,Quarterfinals,2.0,1.0
@@ -19107,7 +19107,7 @@ Rakuten Japan Open Tennis Championships,9/29/2014,Johnson S.,Moriya H.,1.33,3.28
 Rakuten Japan Open Tennis Championships,9/29/2014,Anderson K.,Thiem D.,1.51,2.52,1st Round,2.0,0.0
 Rakuten Japan Open Tennis Championships,9/29/2014,Muller G.,Delbonis F.,1.38,2.98,1st Round,2.0,0.0
 Rakuten Japan Open Tennis Championships,9/29/2014,Granollers M.,Ferrer D.,4.91,1.17,1st Round,2.0,1.0
-Rakuten Japan Open Tennis Championships,9/29/2014,Golubev A.,Herbert P-H.,2.03,1.76,1st Round,2.0,0.0
+Rakuten Japan Open Tennis Championships,9/29/2014,Golubev A.,Herbert P.H.,2.03,1.76,1st Round,2.0,0.0
 Rakuten Japan Open Tennis Championships,9/29/2014,Sock J.,Dolgopolov O.,2.25,1.62,1st Round,2.0,0.0
 Rakuten Japan Open Tennis Championships,9/29/2014,Istomin D.,Daniel T.,1.37,3.01,1st Round,2.0,1.0
 Rakuten Japan Open Tennis Championships,9/30/2014,Becker B.,Nieminen J.,2.87,1.4,1st Round,1.0,0.0
@@ -19426,7 +19426,7 @@ Chennai Open,12/31/2012,Bedene A.,Sousa J.,1.38,2.91,1st Round,2.0,0.0
 Chennai Open,12/31/2012,Haase R.,Bhambri Y.,1.25,3.81,1st Round,2.0,0.0
 Chennai Open,12/31/2012,Roger-Vasselin E.,Kuznetsov An.,1.6,2.27,1st Round,2.0,0.0
 Chennai Open,1/1/2013,Bachinger M.,Lu Y.H.,2.93,1.38,1st Round,2.0,1.0
-Chennai Open,1/1/2013,Stebe C-M.,Sijsling I.,2.51,1.5,1st Round,2.0,0.0
+Chennai Open,1/1/2013,Stebe C.M.,Sijsling I.,2.51,1.5,1st Round,2.0,0.0
 Chennai Open,1/1/2013,Amritraj P.,Rufin G.,2.76,1.42,1st Round,2.0,1.0
 Chennai Open,1/1/2013,Bautista R.,Kavcic B.,1.51,2.49,1st Round,2.0,0.0
 Chennai Open,1/1/2013,Paire B.,Cipolla F.,1.47,2.6,1st Round,2.0,0.0
@@ -19436,7 +19436,7 @@ Chennai Open,1/1/2013,Stakhovsky S.,Bemelmans R.,2.0,1.76,1st Round,2.0,0.0
 Chennai Open,1/2/2013,Bedene A.,Haase R.,2.17,1.65,2nd Round,2.0,0.0
 Chennai Open,1/2/2013,Soeda G.,Amritraj P.,1.31,3.31,2nd Round,2.0,1.0
 Chennai Open,1/2/2013,Tipsarevic J.,Roger-Vasselin E.,1.16,5.09,2nd Round,2.0,0.0
-Chennai Open,1/2/2013,Wawrinka S.,Stebe C-M.,1.22,4.16,2nd Round,2.0,0.0
+Chennai Open,1/2/2013,Wawrinka S.,Stebe C.M.,1.22,4.16,2nd Round,2.0,0.0
 Chennai Open,1/3/2013,Paire B.,Sela D.,1.62,2.24,2nd Round,2.0,0.0
 Chennai Open,1/3/2013,Cilic M.,Stakhovsky S.,1.21,4.25,2nd Round,2.0,1.0
 Chennai Open,1/3/2013,Bautista R.,Bachinger M.,1.84,1.9,2nd Round,2.0,0.0
@@ -19460,7 +19460,7 @@ Qatar Exxon Mobil Open,1/1/2013,Youzhny M.,Becker B.,1.27,3.64,1st Round,2.0,1.0
 Qatar Exxon Mobil Open,1/1/2013,Safwat M.,Ali Mutawa J.M.,1.02,13.29,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/1/2013,Brands D.,Chardy J.,2.54,1.49,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/1/2013,Gasquet R.,Hernych J.,1.13,5.74,1st Round,2.0,0.0
-Qatar Exxon Mobil Open,1/1/2013,Monfils G.,Zayed M. S.,1.02,15.03,1st Round,2.0,0.0
+Qatar Exxon Mobil Open,1/1/2013,Monfils G.,Zayed M.S.,1.02,15.03,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/1/2013,Kamke T.,Ramirez-Hidalgo R.,1.15,5.21,1st Round,2.0,0.0
 Qatar Exxon Mobil Open,1/1/2013,Ferrer D.,Brown D.,1.03,11.62,1st Round,2.0,1.0
 Qatar Exxon Mobil Open,1/1/2013,Kubot L.,Lopez F.,2.6,1.47,1st Round,2.0,0.0
@@ -21826,7 +21826,7 @@ Kremlin Cup,10/14/2013,Khachanov K.,Ramos A.,3.31,1.32,1st Round,2.0,1.0
 Kremlin Cup,10/14/2013,Roger-Vasselin E.,Vesely J.,1.44,2.71,1st Round,2.0,1.0
 Kremlin Cup,10/15/2013,Lorenzi P.,Volandri F.,1.19,4.52,1st Round,1.0,1.0
 Kremlin Cup,10/15/2013,Kukushkin M.,Bogomolov A.,1.49,2.57,1st Round,2.0,0.0
-Kremlin Cup,10/15/2013,Golubev A.,Nedovyesov O.,1.48,2.59,1st Round,2.0,0.0
+Kremlin Cup,10/15/2013,Golubev A.,Nedovyesov A.,1.48,2.59,1st Round,2.0,0.0
 Kremlin Cup,10/15/2013,Donskoy E.,Baghdatis M.,2.75,1.43,1st Round,2.0,1.0
 Kremlin Cup,10/15/2013,Sela D.,Karatsev A.,1.26,3.72,1st Round,2.0,0.0
 Kremlin Cup,10/16/2013,Istomin D.,Kuznetsov An.,1.18,4.72,1st Round,2.0,1.0
