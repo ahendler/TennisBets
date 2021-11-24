@@ -9,7 +9,7 @@
  O projeto consiste em uma análise de dados referente a apostas esportivas em confrontos de tênis e como fatores intrínsecos a um jogador e a esperança que os apostadores depositam nele podem influenciar no resultado final. Os dados serão coletados a partir de tabelas disponíveis em sites de históricos esportivos. Alguns desses sites não possuem arquivos com os dados prontos. Dessa maneira, pretendemos realizar a obtenção dos dados com um web crawler, de modo que possamos construir nossas próprias tabelas com os dados que nos interessem. A princípio, construiremos 4 modelos relacionais, que contém dados dos jogadores, dos torneios, dos confrontos e dos históricos de jogos.
 
 ## Slides da Apresentação
-> [Slides](slides/slides.pdf)
+ [Slides](slides/slidefinal.pdf)
 
 ## Modelo Conceitual
 - Relacional
@@ -31,15 +31,8 @@ Confronto(_nome_vencedor_, _nome_perdedor_,_data_,odd_vencedor,odd_perdedor,roun
 ~~~
 - Grafo:   
 
-> Para o modelo de grafos de propriedades, utilize este
-> [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
->
-> ![Modelo Lógico de Grafos](images/modelo-logico-grafos.png)
-
-> Para o modelo de grafos de conhecimento, utilize a abordagem
-> (recurso, propriedade, valor) para apresentar seu grafo exemplo.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image).
+- Modelo de grafos de propriedades:
+[!modeloGrafo](assets/modeloGrafo.png) 
 
 ## Dataset Publicado
 
