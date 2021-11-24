@@ -38,13 +38,12 @@ Confronto(_nome_vencedor_, _nome_perdedor_,_data_,odd_vencedor,odd_perdedor,roun
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-Confrontations | [confrontations.csv](data/processed/confrontations.csv) | Corresponde ao componente "confrontos" do modelo conceitual 
+Confrontations | [confrontations_since_2010.csv](data/processed/confrontations_since_2010.csv) | Corresponde ao componente "confrontos" do modelo conceitual 
 History | [history.csv](data/processed/history.csv) | Corresponde ao componente "histórico" do modelo conceitual
-Players | [players.csv](data/processed/players.csv) | corresponde ao componente "Jogador" do modelo conceitual
+Players | [men_players.csv](data/processed/men_players.csv) | corresponde ao componente "Jogador" do modelo conceitual
 Tournaments | [tournaments.csv](data/processed/tournaments.csv) | corresponde ao componente "Torneio" do modelo conceitual
 Banco de dados de Grafos | [graph_relations.csv](data/processed/graph_relations.csv) | Arquivo usado para gerar as arestas e nós do banco de dados de grafos
 
-> Este é o conjunto mínimo de informações que deve constar na disponibilização do Dataset, mas a equipe pode enriquecer esta seção.
 
 ## Bases de Dados
 
@@ -98,17 +97,13 @@ Em geral, conseguimos lidar bem com todas as dificuldades que encontramos, de mo
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
-> Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
-
-> Liste aqui as perguntas de pesquisa/análise e respectivas análises. Nem todas as perguntas precisam de queries que as implementam. É possível haver perguntas em que a solução é apenas descrita para demonstrar o potencial da base. Abaixo são ilustradas três perguntas, mas pode ser um número maior a critério da equipe.
-
 ### Perguntas/Análise com Resposta Implementada
 
 
 #### Pergunta/Análise 1
-> * QUAIS JOGADORES TIVERAM AS MELHORES PERFORMANCES INDIVIDUAIS EM UMA TEMPORADA NOS ÚLTIMOS 10 ANOS?
->   
->   * A cada ano novos jogadores tentam atingir a elite e se tornar o número 1 do ranking. Entretanto, alguns jogadores conseguem ser os melhores em várias temporadas, como podemos ver a seguir.
+ * QUAIS JOGADORES TIVERAM AS MELHORES PERFORMANCES INDIVIDUAIS EM UMA TEMPORADA NOS ÚLTIMOS 10 ANOS?
+   
+   * A cada ano novos jogadores tentam atingir a elite e se tornar o número 1 do ranking. Entretanto, alguns jogadores conseguem ser os melhores em várias temporadas, como podemos ver a seguir.
 
 ```
 SELECT *
@@ -128,9 +123,9 @@ ano_2020 =  (SELECT MAX(ano_2020) FROM Historico)
 ![performances](assets/maiores_performances.png)
 
 #### Pergunta/Análise 2
-> * QUAIS PAÍSES POSSUEM MAIS PONTOS POR JOGADOR NO RANKING EM 2019?
->   
->   * O incentivo ao esporte em diferentes países pode levar com que vários jogadores consigam ter sucesso na profissão de tenista. Dessa maneira, podemos analisar quais países possuem a maior média de pontos em seus jogadores profissionais, como visto na query abaixo.
+ * QUAIS PAÍSES POSSUEM MAIS PONTOS POR JOGADOR NO RANKING EM 2019?
+   
+   * O incentivo ao esporte em diferentes países pode levar com que vários jogadores consigam ter sucesso na profissão de tenista. Dessa maneira, podemos analisar quais países possuem a maior média de pontos em seus jogadores profissionais, como visto na query abaixo.
 
 ```DROP VIEW IF EXISTS Ranking_per_country;
 CREATE VIEW Ranking_per_country AS
@@ -151,9 +146,9 @@ ORDER BY pontos_por_jogador desc
 ```
 ![pontos_por_jogador](assets/pontos_por_jogador.png)
 #### Pergunta/Análise 3
-> * Quais foram os maiores enganadores nas partidas?
->   
->   * Analisando o dataset, vemos que muitos jogos em que as apostas a favor de um jogador são grandes e ele perde sua partida, assim como grandes apostas contra um jogador e ele consegue se superar e vencer o jogo. Pensando nisso, podemos analisar quais os jogadores mais subestimados e quais os mais superestimados.
+ * Quais foram os maiores enganadores nas partidas?
+   
+   * Analisando o dataset, vemos que muitos jogos em que as apostas a favor de um jogador são grandes e ele perde sua partida, assim como grandes apostas contra um jogador e ele consegue se superar e vencer o jogo. Pensando nisso, podemos analisar quais os jogadores mais subestimados e quais os mais superestimados.
 
 ```
 DROP VIEW IF EXISTS WSUBESTIMADO;
@@ -179,18 +174,18 @@ ORDER BY ENGANAÇÃO DESC
 ![subestimados](assets/subestimados.png)
 
 #### Pergunta/Análise 4
-> * Existe uma relação direta entre o número de partidas jogadas por um jogador e sua popularidade?
->   
->   * Utilizando as informações de popularidade e os graus de entrada e saída de certo nó do grafo, foi possível associar o tamanho de cada nó com o número de seguidores que ele possui, e sua cor à quantidade de partidas realizadas por esse jogador. Com isso, é possível notar um padrão entre o tamanho de um nó e sua cor, isto é, seus seguidores e o número de partidas jogadas?
+ * Existe uma relação direta entre o número de partidas jogadas por um jogador e sua popularidade?
+   
+   * Utilizando as informações de popularidade e os graus de entrada e saída de certo nó do grafo, foi possível associar o tamanho de cada nó com o número de seguidores que ele possui, e sua cor à quantidade de partidas realizadas por esse jogador. Com isso, é possível notar um padrão entre o tamanho de um nó e sua cor, isto é, seus seguidores e o número de partidas jogadas?
 ![grafo_popularidade_partidas](assets/grafo_popularidade_partida.png)
 [Pdf com imagem em alta resolução](assets/grafo_popularidade_partida.pdf)
 
 Observando a imagem, vemos que, de fato, os maiores nós são mais escuros que a maioria dos demais, no entanto, vemos que alguns jogadores, como Lopes F., jogaram mais partidas que Nadal ou Federer, mas sua popularidade não se compara às deles. Sendo assim, não é possível afirmar que a quantidade de partidas jogadas é o suficiente para tornar um jogador popular. Apesar disso, é interessante observar que jogadores com poucos jogos tem, no geral, uma popularidade muito baixa se comparados aos mais experientes. 
 
 #### Pergunta/Análise 5
-> * Como podemos relacionar as interações dos jogadores com seu saldo de vitórias?
->   
->   * O banco de dados de grafos permitiu calcular o saldo de vitórias dos jogadores através de seus graus de entrada e saída. Nesse grafo, as arestas tem seu peso determinado pela quantidade de vezes que um jogador derrotou outro, fazendo com que rivais apareçam mais próximos no grafo. Somado a isso, utilizando o Neo4j, podemos calcular o pagerank de cada jogador. Com essas informações, associando o saldo de vitórias ao tamanho dos nós e a centralidade ao tom da cor, podemos observar alguma associação entre esses atributos?
+ * Como podemos relacionar as interações dos jogadores com seu saldo de vitórias?
+   
+   * O banco de dados de grafos permitiu calcular o saldo de vitórias dos jogadores através de seus graus de entrada e saída. Nesse grafo, as arestas tem seu peso determinado pela quantidade de vezes que um jogador derrotou outro, fazendo com que rivais apareçam mais próximos no grafo. Somado a isso, utilizando o Neo4j, podemos calcular o pagerank de cada jogador. Com essas informações, associando o saldo de vitórias ao tamanho dos nós e a centralidade ao tom da cor, podemos observar alguma associação entre esses atributos?
 ![grafo_saldo_vitorias_pagerank](assets/grafo_saldo_vitorias_pagerank.png)
 [Pdf com imagem em alta resolução](assets/grafo_saldo_vitorias_pagerank.pdf)
 
@@ -200,18 +195,18 @@ Observando esse grafo, vemos que os jogadores com maior saldo de vitórias não 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * Observando as primeiras relações criadas por um jogador, é possível determinar se este é um profissional promissor?
->   
->   * Com o uso do banco de dados de grafo, é possível analisar as primeiras relações criadas por certos jogadores em torneios profissionais. Dito isso, podemos inferir que um jogador que inicia sua carreira enfrentando os jogadores mais habilidosos tende a ser mais promissor? Ou ainda, podemos dizer que um jogador que já participou de um alto número de partidas, mas nunca enfrentou um dos melhores, é um jogador com menos potencial?
+ * Observando as primeiras relações criadas por um jogador, é possível determinar se este é um profissional promissor?
+   
+   * Com o uso do banco de dados de grafo, é possível analisar as primeiras relações criadas por certos jogadores em torneios profissionais. Dito isso, podemos inferir que um jogador que inicia sua carreira enfrentando os jogadores mais habilidosos tende a ser mais promissor? Ou ainda, podemos dizer que um jogador que já participou de um alto número de partidas, mas nunca enfrentou um dos melhores, é um jogador com menos potencial?
 
 #### Pergunta/Análise 2
-> * Como a idade de um jogador influencia na sua performance do torneio?
->   
->   * É interessante observar se o desempenho de um jogador é afetado positiva ou negativamente conforme ele vai ganhando experiência em diferentes campeonatos ao longo de sua carreira. 
+ * Como a idade de um jogador influencia na sua performance do torneio?
+   
+   * É interessante observar se o desempenho de um jogador é afetado positiva ou negativamente conforme ele vai ganhando experiência em diferentes campeonatos ao longo de sua carreira. 
 
 #### Pergunta/Análise 3
-> * Como os análises feitas anteriormente se diferenciam das jogadoras?
->   
->   * Podemos observar a relação que existe entre as análises da categoria masculina e feminina, de modo a entender se comunidades diferentes de um mesmo esporte possuem comportamentos semelhantes no final.
+ * Como os análises feitas anteriormente se diferenciam das jogadoras?
+   
+   * Podemos observar a relação que existe entre as análises da categoria masculina e feminina, de modo a entender se comunidades diferentes de um mesmo esporte possuem comportamentos semelhantes no final.
 
-> as queries podem ser encontradas em [notebook SQL](notebooks/queries.ipynb) e as instruções para a criação do grafo podem ser encontradas em [grafos](src/graphs/)
+ as queries podem ser encontradas em [notebook SQL](notebooks/queries.ipynb) e as instruções para a criação do grafo podem ser encontradas em [grafos](src/graphs/)
