@@ -28,11 +28,10 @@ Confronto(_nome_vencedor_, _nome_perdedor_,_data_,odd_vencedor,odd_perdedor,roun
   nome_vencedor chave estrangeira -> Jogador(nome)
   nome_perdedor chave estrangeira -> Jogador(nome)
   nome_torneio chave estrangeira -> Torneio(nome_torneio)
-~~~
-- Grafo:   
+~~~  
 
 - Modelo de grafos de propriedades:
-[!modeloGrafo](assets/modeloGrafo.png) 
+![modeloGrafo](assets/modeloGrafo.png) 
 
 ## Dataset Publicado
 
@@ -185,7 +184,21 @@ Observando a imagem, vemos que, de fato, os maiores nós são mais escuros que a
 #### Pergunta/Análise 5
  * Como podemos relacionar as interações dos jogadores com seu saldo de vitórias?
    
-   * O banco de dados de grafos permitiu calcular o saldo de vitórias dos jogadores através de seus graus de entrada e saída. Nesse grafo, as arestas tem seu peso determinado pela quantidade de vezes que um jogador derrotou outro, fazendo com que rivais apareçam mais próximos no grafo. Somado a isso, utilizando o Neo4j, podemos calcular o pagerank de cada jogador. Com essas informações, associando o saldo de vitórias ao tamanho dos nós e a centralidade ao tom da cor, podemos observar alguma associação entre esses atributos?
+   * O banco de dados de grafos permitiu calcular o saldo de vitórias dos jogadores através de seus graus de entrada e saída. Nesse grafo, as arestas tem seu peso determinado pela quantidade de vezes que um jogador derrotou outro, fazendo com que rivais apareçam mais próximos no grafo. Somado a isso, utilizando o Neo4j, podemos calcular o pagerank de cada jogador, como descrito a seguir:
+~~~cypher
+CALL gds.graph.create(
+  'grafoCentralidade',
+  'Player',
+  'Beats'
+)
+
+
+CALL gds.pageRank.stream('grafoCentralidade')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).name AS nome, score AS pagerank
+~~~
+   
+  Com essas informações, associando o saldo de vitórias ao tamanho dos nós e a centralidade ao tom da cor no Cytoscape, podemos observar alguma associação entre esses atributos?
 ![grafo_saldo_vitorias_pagerank](assets/grafo_saldo_vitorias_pagerank.png)
 [Pdf com imagem em alta resolução](assets/grafo_saldo_vitorias_pagerank.pdf)
 
