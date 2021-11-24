@@ -92,9 +92,17 @@ plt.show();
 > Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
 
 ## Evolução do Projeto
-> Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
-> Podem ser apresentados destaques na evolução dos modelos conceitual e lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões.
-> Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+
+
+> Primeiramente, começamos a extrair os dados necessários para o dataset por meio de diferentes fontes. Algumas delas já disponibilizavam as informações por meios de arquivos csv, o que facilitou o processo. Entretanto, para extrair o número de seguidores dos jogadores no instagram, foi necessário realizar diversos requests para a plataforma e construir um script para selecionar apenas as informações que queríamos da página de cada jogador. Como as APIs que facilitam esse processo são pagas, o modo que utilizamos se mostrou muito lento e ineficiente caso fosse aplicado a um grande volume de dados. 
+
+> Uma outra grande dificuldade que encontramos foi que, apesar das fontes apresentarem dados bastante completos e úteis para a análise, a falta de uma padronização entre as diversas fontes foi algo que gerou um grande conflito ao relacionar as tabelas. Alguns jogadores possuíam diferentes nomes em cada fonte. Por exemplo, o jogador Rafael Nadal possuía seu nome escrito como 'R. Nadal' em uma das fontes e 'Rafael Nadal' em outra. Dessa maneira, foi preciso construir um script que padronizasse o formato do nome de cada jogador. Entretanto, isso gerou outro problema, que foi o caso em que mais de um jogador possuía o mesmo nome abreviado que outro. Dessa maneira, as nossas análises entendiam que dois ou mais jogadores diferentes se tratavam do mesmo jogador.
+
+> Para resolver esse problema, testamos algumas possibilidades que poderiam ser adicionadas como chave primária do jogador além de seu nome. A chave que se mostrou mais eficiente foi com nome e data de nascimento. Por outro lado, isso gerou outro conflito, que alguns dados da data de nascimento de alguns jogadores estavam faltando. Para corrigir isso, completamos dados faltantes com datas arbitrárias, em casos em que não era interessante excluir o jogador. Mas, na maior parte das vezes, notamos que os jogadores que possuíam dados faltantes eram em geral jogadores de menores expressão e que possuíam poucas partidas catalogadas. Por esse motivo, optamos por excluir tais jogadores do nosso dataset.
+
+> Uma outra mudança que decidimos fazer ao longo do projeto foi com relação ao ranking. Inicialmente, tínhamos coletado os dados que eram atualizados a cada campeonato, ou seja, várias vezes ao mês. No final optamos por manter apenas o ranking final de cada ano, pois isso nos daria uma visão melhor da temporada dos jogadores, visto que muitos deles possuem calendários distintos conforme os países em que jogam. Ainda sobre o ranking, realizamos uma mudança na ideia inicial, que era analisar tanto o masculino quanto o feminino. Como se tratam de categorias diferentes e disputam campeonatos distintos, concluímos que faria mais sentido realizar análises separadamente.
+
+> Em geral, conseguimos lidar bem com todas as dificuldades que encontramos, de modo que o dataset nos forneceu informações interessantes sobre o esporte. Além disso, o dataset pode ser constantemente atualizado para o futuro, visto que a cada ano são realizados novos campeonatos e as apostas online têm crescido bastante nos últimos anos, o que gera cada vez mais dados relevantes para o nosso estudo.
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
@@ -109,23 +117,77 @@ plt.show();
 > ![Comunidade no Cytoscape](images/cytoscape-comunidade.png)
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * QUAIS JOGADORES TIVERAM AS MELHORES PERFORMANCES INDIVIDUAIS EM UMA TEMPORADA NOS ÚLTIMOS 10 ANOS?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * A cada ano novos jogadores tentam atingir a elite e se tornar o número 1 do ranking. Entretanto, alguns jogadores conseguem ser os melhores em várias temporadas, como podemos ver a seguir.
+
+```
+SELECT *
+FROM Historico
+WHERE ano_2010 =  (SELECT MAX(ano_2010) FROM Historico) OR
+ano_2011 =  (SELECT MAX(ano_2011) FROM Historico) OR
+ano_2012 =  (SELECT MAX(ano_2012) FROM Historico) OR
+ano_2013 =  (SELECT MAX(ano_2013) FROM Historico) OR
+ano_2014 =  (SELECT MAX(ano_2014) FROM Historico) OR
+ano_2015 =  (SELECT MAX(ano_2015) FROM Historico) OR
+ano_2016 =  (SELECT MAX(ano_2016) FROM Historico) OR
+ano_2017 =  (SELECT MAX(ano_2017) FROM Historico) OR
+ano_2018 =  (SELECT MAX(ano_2018) FROM Historico) OR
+ano_2019 =  (SELECT MAX(ano_2019) FROM Historico) OR
+ano_2020 =  (SELECT MAX(ano_2020) FROM Historico) 
+```
+![performances](assets/maiores_performances.png)
 
 #### Pergunta/Análise 2
-> * Pergunta 2
+> * QUAIS PAÍSES POSSUEM MAIS PONTOS POR JOGADOR NO RANKING EM 2019?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * O incentivo ao esporte em diferentes países pode levar com que vários jogadores consigam ter sucesso na profissão de tenista. Dessa maneira, podemos analisar quais países possuem a maior média de pontos em seus jogadores profissionais, como visto na query abaixo.
 
+```DROP VIEW IF EXISTS Ranking_per_country;
+CREATE VIEW Ranking_per_country AS
+SELECT nome, ano_2019, local
+FROM Jogador, Historico
+WHERE nome = name
+
+DROP VIEW IF EXISTS Ranking_per_capita;
+CREATE VIEW Ranking_per_capita as
+SELECT LOCAL, SUM(ANO_2019) total, Count(local) num
+FROM Ranking_per_country
+GROUP BY LOCAL
+ORDER BY total desc
+
+SELECT local, total/num as pontos_por_jogador
+from Ranking_per_capita
+ORDER BY pontos_por_jogador desc
+```
+![pontos_por_jogador](assets/pontos_por_jogador.png)
 #### Pergunta/Análise 3
-> * Pergunta 3
+> * Quais foram os maiores enganadores nas partidas?
 >   
->   * Explicação sucinta da análise que será feita e conjunto de queries que
->     responde à pergunta.
+>   * Analisando o dataset, vemos que muitos jogos em que as apostas a favor de um jogador são grandes e ele perde sua partida, assim como grandes apostas contra um jogador e ele consegue se superar e vencer o jogo. Pensando nisso, podemos analisar quais os jogadores mais subestimados e quais os mais superestimados.
 
+```
+DROP VIEW IF EXISTS WSUBESTIMADO;
+CREATE VIEW WSUBESTIMADO AS
+SELECT winner, AVG(oddwinner) odd_media, Count(winner) vitorias
+FROM CONFRONTO
+GROUP BY WINNER
+ORDER BY odd_media desc
+
+DROP VIEW IF EXISTS LSUBESTIMADO;
+CREATE VIEW LSUBESTIMADO AS
+SELECT loser, AVG(oddloser) odd_media, Count(loser) derrotas
+FROM CONFRONTO
+GROUP BY LOSER
+ORDER BY odd_media desc
+
+SELECT winner, (wsubestimado.odd_media * (VITORIAS/DERROTAS)) as enganação
+FROM LSUBESTIMADO, WSUBESTIMADO
+WHERE WINNER = LOSER
+ORDER BY ENGANAÇÃO DESC
+
+```
+![subestimados](assets/subestimados.png)
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
