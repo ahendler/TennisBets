@@ -48,8 +48,8 @@ título do arquivo/base | link | breve descrição
 Confrontations | [confrontations.csv](data/processed/confrontations.csv) | Corresponde ao componente "confrontos" do modelo conceitual 
 History | [history.csv](data/processed/history.csv) | Corresponde ao componente "histórico" do modelo conceitual
 Players | [players.csv](data/processed/players.csv) | corresponde ao componente "Jogador" do modelo conceitual
-Tournaments | [tournaments.csv](data/processed/confrontations.csv) | corresponde ao componente "Torneio" do modelo conceitual
-**???** | [repeated_confrontations.csv](data/processed/confrontations.csv) | **???????**
+Tournaments | [tournaments.csv](data/processed/tournaments.csv) | corresponde ao componente "Torneio" do modelo conceitual
+Banco de dados de Grafos | [graph_relations.csv](data/processed/graph_relations.csv) | Arquivo usado para gerar as arestas e nós do banco de dados de grafos
 
 > Este é o conjunto mínimo de informações que deve constar na disponibilização do Dataset, mas a equipe pode enriquecer esta seção.
 
@@ -67,29 +67,28 @@ World Cities | [kaggle/worldcities](https://www.kaggle.com/viswanathanc/world-ci
 
 
 ## Detalhamento do Projeto
-> Apresente aqui detalhes do processo de construção do dataset e análise. Nesta seção ou na seção de Perguntas podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
-> Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
-
+Com o objetivo de criar um banco de dados que relacionasse diferentes propriedades, nossa equipe decidiu que o primeiro passo do projeto deveria ser a obtenção dos dados. Parte desses dados foi obtida a partir de arquivos csv disponibilizados pelas fontes citadas anteriormente, no entanto alguns dados exigiram uma extração mais elaborada, como foi o caso da obtenção do número de seguidores no instagram de certos jogadores. A primeira tarefa dessa obtenção foi obter os endereços do instagram dos jogadores, o que foi obtido um arquivo csv. Com esses dados, foi gerado um [script em python](src/extraction/getHTMLs.py) que envia um request para o instagram, e o site retorna um arquivo HTML com diversas informações sobre a página. Esse código pode ser visto abaixo:
 ~~~python
-df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
-sns.set(color_codes=True);
-sns.distplot(df.Hemoglobin);
-plt.show();
+accounts_men = open("../../data/raw/menInstagram2019.csv", newline='\n', encoding= 'utf-8')
+num_lines_men = sum(1 for _ in accounts_men)
+...
+for _ in range(num_lines_men - 1):
+	item = accounts_men.readline().replace('\x00','').split(',')
+	# if the file already exists, it does not request it again
+	if(not exists("../../data/raw/menInstagramHTMLs/"+item[0]+".html")):
+		try:	
+			urllib.request.urlretrieve(item[-1], "../../data/raw/menInstagramHTMLs/"+item[0]+".html")
+		except:
+			print("request failed")
+		#sleep(61) #avoids getting blocked by Instagram - might be better off without it
 ~~~
+E a partir desse HTML, foi feito [outro script](src/aggregation/scrapFollowers.py) que extrai apenas o número de seguidores e guardava em um arquivo intermediário, e com isso foi finalizada a extração dos dados. 
 
-> Se usar Orange para alguma análise, você pode apresentar uma captura do workflow, como o exemplo a seguir e descrevê-lo:
-![Workflow no Orange](images/orange-zombie-meals-prediction.png)
+Após isso, para que pudéssemos usar tais dados, foi preciso realizar certas transformações de modo a permitir que informações de diferentes fontes pudessem ser usados em conjunto, evitando, por exemplo, que jogadores aparecessem com nomes diferentes dependendo da fonte, ou evitando que dados de diferentes fontes fossem conflitantes. Para resolver esse problema, criamos programas que [uniam dados sobre os torneios de tenis de diferentes fontes](src/aggregation/getTournaments.py), [faziam um match entre nomes de jogadores](src/treatment/MenNameMatching.py) que estavam diferentes dependendo da fonte dos dados, e outros tratamentos. Nesse processo, foram necessárias muitas transformações dos dados, e, para evitar perder muito tempo, decidimos iniciar a construção dos bancos de dados nesse ponto e adicionar mais informações conforme o processo de tratamento dos dados era concluído. Como o banco de dados relacional exigia uma coerência entre diversas tabelas, visto que a maioria delas fazia uso de chaves estrangeiras, não foi possível implementar tal banco antes de terminar as operações pendentes, com isso passamos para a implementação do banco de dados de grafos.
 
-> Coloque um link para o arquivo do notebook, programas ou workflows que executam as operações que você apresentar.
+O banco de dados foi criado utilizando o software Neo4j. Nele, foram carregadas as informações dos jogadores, que atuaram como nós, e informações dos confrontos, que deram origem às arestas do grafo. Essas arestas possuíam a propriedade "times", que guarda a quantidade de vezes que um jogador venceu outro. Essa informação foi gerada com um [script simples](src/aggregation/matchups_count.py) que utilizava a tabela confrontos para gerar essa nova informação, e isso foi posteriormente utilizado na análise dos grafos. Com o banco de dados criado no Neo4j, foi possível realizar análises acerca da rede, como a centralidade dos nós (utilizando o algoritmo de pagerank), as comunidades a qual os nós pertencem, e outras informações. Os dados gerados através das análises do Neo4j, assim como o grafo, foram então exportados para o software Cytoscape, onde foi possível analisar profundamente o banco de dados e responder à perguntas propostas no início do projeto. O processo de criação e análises utilizando os grafos pode ser visto na [documentação](src/graphs/analise_grafo.md).
 
-> Aqui devem ser apresentadas as operações de construção do dataset:
-* extração de dados de fontes não estruturadas como, por exemplo, páginas Web
-* agregação de dados fragmentados obtidos a partir de API
-* integração de dados de múltiplas fontes
-* tratamento de dados
-* transformação de dados para facilitar análise e pesquisa
-
-> Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+Ao fim da criação do banco de dados de grafos, o processo de tratamento dos dados havia sido concluído, e então utilizamos SQL para gerar o banco de dados relacional, que seguiu o modelo lógico descrito anteriormente. Assim como no caso dos grafos, após o banco de dados ser criado, passamos para a implementação de queries que nos permitiram responder à perguntas propostas no início do projeto.
 
 ## Evolução do Projeto
 
@@ -188,12 +187,32 @@ ORDER BY ENGANAÇÃO DESC
 
 ```
 ![subestimados](assets/subestimados.png)
+
+#### Pergunta/Análise 4
+> * Existe uma relação direta entre o número de partidas jogadas por um jogador e sua popularidade?
+>   
+>   * Utilizando as informações de popularidade e os graus de entrada e saída de certo nó do grafo, foi possível associar o tamanho de cada nó com o número de seguidores que ele possui, e sua cor à quantidade de partidas realizadas por esse jogador. Com isso, é possível notar um padrão entre o tamanho de um nó e sua cor, isto é, seus seguidores e o número de partidas jogadas?
+![grafo_popularidade_partidas](assets/grafo_popularidade_partida.png)
+[Pdf com imagem em alta resolução](assets/grafo_popularidade_partida.pdf)
+
+Observando a imagem, vemos que, de fato, os maiores nós são mais escuros que a maioria dos demais, no entanto, vemos que alguns jogadores, como Lopes F., jogaram mais partidas que Nadal ou Federer, mas sua popularidade não se compara às deles. Sendo assim, não é possível afirmar que a quantidade de partidas jogadas é o suficiente para tornar um jogador popular. Apesar disso, é interessante observar que jogadores com poucos jogos tem, no geral, uma popularidade muito baixa se comparados aos mais experientes. 
+
+#### Pergunta/Análise 5
+> * Como podemos relacionar as interações dos jogadores com seu saldo de vitórias?
+>   
+>   * O banco de dados de grafos permitiu calcular o saldo de vitórias dos jogadores através de seus graus de entrada e saída. Nesse grafo, as arestas tem seu peso determinado pela quantidade de vezes que um jogador derrotou outro, fazendo com que rivais apareçam mais próximos no grafo. Somado a isso, utilizando o Neo4j, podemos calcular o pagerank de cada jogador. Com essas informações, associando o saldo de vitórias ao tamanho dos nós e a centralidade ao tom da cor, podemos observar alguma associação entre esses atributos?
+![grafo_saldo_vitorias_pagerank](assets/grafo_saldo_vitorias_pagerank.png)
+[Pdf com imagem em alta resolução](assets/grafo_saldo_vitorias_pagerank.pdf)
+
+Observando esse grafo, vemos que os jogadores com maior saldo de vitórias não possuem um valor de centralidade acima dos demais, na verdade alguns possuem uma centralidade baixa, enquanto que a maioria dos jogadores com alta centralidade são os que possuem um saldo de vitórias mediano. Essa informação tem sentido no mundo real, visto que os jogadores mais habilidosos tendem a se enfrentar regularmente, e não realizam muitos confrontos com jogadores menos experientes, tornando-os mais isolados na rede. Já os jogadores intermediários enfrentam tanto jogadores menos experientes quanto jogadores no topo, sendo assim, essas pessoas criam um caminho entre novatos e profissionais bem estabelecidos, explicando a relação entre a centralidade e sua taxa de vitórias.
+
+
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * Pergunta 1
+> * Observando as primeiras relações criadas por um jogador, é possível determinar se este é um profissional promissor?
 >   
->   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+>   * Com o uso do banco de dados de grafo, é possível analisar as primeiras relações criadas por certos jogadores em torneios profissionais. Dito isso, podemos inferir que um jogador que inicia sua carreira enfrentando os jogadores mais habilidosos tende a ser mais promissor? Ou ainda, podemos dizer que um jogador que já participou de um alto número de partidas, mas nunca enfrentou um dos melhores, é um jogador com menos potencial?
 
 #### Pergunta/Análise 2
 > * Pergunta 2

@@ -1,0 +1,5 @@
+Após criar o banco de dados com o auxílio do Neo4j, as futuras análises serão realizadas no software Cytoscape. Após abrir o software, você deverá importar uma rede na opção "File -> Import -> Network from file". O arquivo usado para gerar a rede é [a tabela de relações](../../data/processed/graph_relations.csv). Após gerar esse arquivo, acima da tabela de nós, clique na opção "Import Table from file" e adicione os arquivos contendo as informações de centralidade e comunidade dos nós, [gerados no neo4j](criacao_grafoDB_neo4j.md). 
+
+Após isso, será necessário instalar as extensões STRING e yFiles Layout Algorithms, o que pode ser feito em "Apps -> App Manager". Por fim, utilize a ferramenta de análise de grafos do Neo4j para essa rede, clicando em "Tools -> Analyze Network". Após isso, o grafo estará criado e você poderá estudar as relações usando as propriedades dos nós e arestas.
+
+O arquivo contendo o grafo utilizado nas análises realizadas pelos alunos [está disponível](GrafoJogadores.cys), logo é possível baixá-lo e abrí-lo no Neo4j caso deseje evitar realizar os passos descritos anteriormente.
