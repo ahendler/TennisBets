@@ -1,746 +1,745 @@
-Location,Surface,Year,Tournament
-Brisbane,Hard,2010,Brisbane International
-Chennai,Hard,2010,Chennai Open
-Doha,Hard,2010,Qatar Exxon Mobil Open
-Auckland,Hard,2010,Heineken Open
-Sydney,Hard,2010,Medibank International
-Melbourne,Hard,2010,Australian Open
-Johannesburg ,Hard,2010,SA Tennis Open
-Santiago,Clay,2010,Movistar Open
-Zagreb,Hard,2010,PBZ Zagreb Indoors
-Costa Do Sauipe,Clay,2010,Brasil Open
-Rotterdam,Hard,2010,ABN AMRO World Tennis Tournament
-San Jose,Hard,2010,SAP Open
-Buenos Aires,Clay,2010,Copa Telmex
-Marseille,Hard,2010,Open 13
-Memphis,Hard,2010,Regions Morgan Keegan Championships
-Acapulco,Clay,2010,Abierto Mexicano
-Delray Beach,Hard,2010,International Championships
-Dubai ,Hard,2010,Dubai Tennis Championships
-Indian Wells,Hard,2010,BNP Paribas Open
-Miami,Hard,2010,Sony Ericsson Open
-Casablanca,Clay,2010,Grand Prix Hassan II
-Houston,Clay,2010,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2010,Monte Carlo Masters
-Barcelona,Clay,2010,Open Banco Sabadell
-Rome,Clay,2010,Internazionali BNL d'Italia
-Belgrade,Clay,2010,Serbia Open
-Estoril ,Clay,2010,Estoril Open
-Munich,Clay,2010,BMW Open
-Madrid,Clay,2010,Mutua Madrileña Madrid Open
-Nice,Clay,2010,Open de Nice Côte d’Azur
-Paris,Clay,2010,French Open
-Halle,Grass,2010,Gerry Weber Open
-Queens Club,Grass,2010,AEGON Championships
-Eastbourne,Grass,2010,AEGON International
-'s-Hertogenbosch,Grass,2010,Unicef Open
-London,Grass,2010,Wimbledon
-Newport,Grass,2010,Hall of Fame Championships
-Bastad,Clay,2010,SkiStar Swedish Open
-Stuttgart,Clay,2010,Mercedes Cup
-Atlanta,Hard,2010,Atlanta Tennis Championships
-Hamburg,Clay,2010,German Open Tennis Championships
-Gstaad,Clay,2010,Allianz Suisse Open
-Los Angeles,Hard,2010,Farmers Classic
-Umag,Clay,2010,Studena Croatia Open
-Washington,Hard,2010,Legg Mason Classic
-Toronto,Hard,2010,Rogers Masters
-Cincinnati,Hard,2010,Western & Southern Financial Group Masters
-New Haven,Hard,2010,Pilot Pen Tennis
-New York,Hard,2010,US Open
-Bucharest,Clay,2010,Open Romania
-Metz,Hard,2010,Open de Moselle
-Bangkok,Hard,2010,Thailand Open
-Kuala Lumpur,Hard,2010,Proton Malaysian Open
-Beijing,Hard,2010,China Open
-Tokyo,Hard,2010,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2010,Shanghai Masters
-Moscow,Hard,2010,Kremlin Cup
-Stockholm,Hard,2010,Stockholm Open
-Montpellier,Hard,2010,Open Sud de France
-St. Petersburg,Hard,2010,St. Petersburg Open
-Vienna,Hard,2010,BA-CA Tennis Trophy
-Basel,Hard,2010,Swiss Indoors
-Valencia,Hard,2010,Valencia Open 500
-Paris,Hard,2010,BNP Paribas Masters
-London,Hard,2010,Masters Cup
-Brisbane,Hard,2011,Brisbane International
-Chennai,Hard,2011,Chennai Open
-Doha,Hard,2011,Qatar Exxon Mobil Open
-Auckland,Hard,2011,Heineken Open
-Sydney,Hard,2011,Medibank International
-Melbourne,Hard,2011,Australian Open
-Johannesburg ,Hard,2011,SA Tennis Open
-Santiago,Clay,2011,Movistar Open
-Zagreb,Hard,2011,PBZ Zagreb Indoors
-Costa Do Sauipe,Clay,2011,Brasil Open
-Rotterdam,Hard,2011,ABN AMRO World Tennis Tournament
-San Jose,Hard,2011,SAP Open
-Buenos Aires,Clay,2011,Copa Claro
-Marseille,Hard,2011,Open 13
-Memphis,Hard,2011,Regions Morgan Keegan Championships
-Acapulco,Clay,2011,Abierto Mexicano
-Delray Beach,Hard,2011,International Championships
-Dubai ,Hard,2011,Dubai Tennis Championships
-Indian Wells,Hard,2011,BNP Paribas Open
-Miami,Hard,2011,Sony Ericsson Open
-Casablanca,Clay,2011,Grand Prix Hassan II
-Houston,Clay,2011,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2011,Monte Carlo Masters
-Barcelona,Clay,2011,Open Banco Sabadell
-Belgrade,Clay,2011,Serbia Open
-Estoril ,Clay,2011,Estoril Open
-Munich,Clay,2011,BMW Open
-Madrid,Clay,2011,Mutua Madrileña Madrid Open
-Rome,Clay,2011,Internazionali BNL d'Italia
-Nice,Clay,2011,Open de Nice Côte d’Azur
-Paris,Clay,2011,French Open
-Halle,Grass,2011,Gerry Weber Open
-Queens Club,Grass,2011,AEGON Championships
-Eastbourne,Grass,2011,AEGON International
-'s-Hertogenbosch,Grass,2011,Unicef Open
-London,Grass,2011,Wimbledon
-Newport,Grass,2011,Hall of Fame Championships
-Bastad,Clay,2011,SkiStar Swedish Open
-Stuttgart,Clay,2011,Mercedes Cup
-Atlanta,Hard,2011,Atlanta Tennis Championships
-Hamburg,Clay,2011,German Open Tennis Championships
-Gstaad,Clay,2011,Allianz Suisse Open
-Los Angeles,Hard,2011,Farmers Classic
-Umag,Clay,2011,Studena Croatia Open
-Kitzbuhel,Clay,2011,Bet-At-Home Cup
-Washington,Hard,2011,Legg Mason Classic
-Montreal,Hard,2011,Rogers Masters
-Cincinnati,Hard,2011,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2011,Winston-Salem Open at Wake Forest University
-New York,Hard,2011,US Open
-Bucharest,Clay,2011,Open Romania
-Metz,Hard,2011,Open de Moselle
-Bangkok,Hard,2011,Thailand Open
-Kuala Lumpur,Hard,2011,Malaysian Open
-Beijing,Hard,2011,China Open
-Tokyo,Hard,2011,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2011,Shanghai Masters
-Moscow,Hard,2011,Kremlin Cup
-Stockholm,Hard,2011,Stockholm Open
-St. Petersburg,Hard,2011,St. Petersburg Open
-Vienna,Hard,2011,Erste Bank Open
-Basel,Hard,2011,Swiss Indoors
-Valencia,Hard,2011,Valencia Open 500
-Paris,Hard,2011,BNP Paribas Masters
-London,Hard,2011,Masters Cup
-Brisbane,Hard,2012,Brisbane International
-Chennai,Hard,2012,Chennai Open
-Doha,Hard,2012,Qatar Exxon Mobil Open
-Auckland,Hard,2012,Heineken Open
-Sydney,Hard,2012,Apia International
-Melbourne,Hard,2012,Australian Open
-Montpellier,Hard,2012,Open Sud de France
-Vina del Mar,Clay,2012,VTR Open
-Zagreb,Hard,2012,PBZ Zagreb Indoors
-Rotterdam,Hard,2012,ABN AMRO World Tennis Tournament
-San Jose,Hard,2012,SAP Open
-Sao Paulo,Clay,2012,Brasil Open
-Buenos Aires,Clay,2012,Copa Claro
-Marseille,Hard,2012,Open 13
-Memphis,Hard,2012,Regions Morgan Keegan Championships
-Acapulco,Clay,2012,Abierto Mexicano
-Delray Beach,Hard,2012,International Championships
-Dubai ,Hard,2012,Dubai Tennis Championships
-Indian Wells,Hard,2012,BNP Paribas Open
-Miami,Hard,2012,Sony Ericsson Open
-Casablanca,Clay,2012,Grand Prix Hassan II
-Houston,Clay,2012,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2012,Monte Carlo Masters
-Barcelona,Clay,2012,Open Banco Sabadell
-Bucharest,Clay,2012,BRD Nastase Tiriac Trophy
-Belgrade,Clay,2012,Serbia Open
-Estoril ,Clay,2012,Estoril Open
-Munich,Clay,2012,BMW Open
-Madrid,Clay,2012,Mutua Madrid Open
-Rome,Clay,2012,Internazionali BNL d'Italia
-Nice,Clay,2012,Open de Nice Côte d’Azur
-Paris,Clay,2012,French Open
-Halle,Grass,2012,Gerry Weber Open
-Queens Club,Grass,2012,AEGON Championships
-Eastbourne,Grass,2012,AEGON International
-'s-Hertogenbosch,Grass,2012,Unicef Open
-London,Grass,2012,Wimbledon
-Bastad,Clay,2012,SkiStar Swedish Open
-Newport,Grass,2012,Hall of Fame Championships
-Stuttgart,Clay,2012,Mercedes Cup
-Umag,Clay,2012,ATP Vegeta Croatia Open
-Atlanta,Hard,2012,BB&T Atlanta Open
-Gstaad,Clay,2012,Crédit Agricole Suisse Open Gstaad
-Hamburg,Clay,2012,German Open Tennis Championships
-Kitzbuhel,Clay,2012,Bet-At-Home Cup
-Los Angeles,Hard,2012,Farmers Classic
-Washington,Hard,2012,Citi Open
-Toronto,Hard,2012,Rogers Masters
-Cincinnati,Hard,2012,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2012,Winston-Salem Open at Wake Forest University
-New York,Hard,2012,US Open
-Metz,Hard,2012,Open de Moselle
-St. Petersburg,Hard,2012,St. Petersburg Open
-Bangkok,Hard,2012,Thailand Open
-Kuala Lumpur,Hard,2012,Malaysian Open
-Beijing,Hard,2012,China Open
-Tokyo,Hard,2012,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2012,Shanghai Masters
-Moscow,Hard,2012,Kremlin Cup
-Stockholm,Hard,2012,Stockholm Open
-Vienna,Hard,2012,Erste Bank Open
-Basel,Hard,2012,Swiss Indoors
-Valencia,Hard,2012,Valencia Open 500
-Paris,Hard,2012,BNP Paribas Masters
-London,Hard,2012,Masters Cup
-Brisbane,Hard,2013,Brisbane International
-Chennai,Hard,2013,Chennai Open
-Doha,Hard,2013,Qatar Exxon Mobil Open
-Auckland,Hard,2013,Heineken Open
-Sydney,Hard,2013,Apia International
-Melbourne,Hard,2013,Australian Open
-Montpellier,Hard,2013,Open Sud de France
-Vina del Mar,Clay,2013,VTR Open
-Zagreb,Hard,2013,PBZ Zagreb Indoors
-Rotterdam,Hard,2013,ABN AMRO World Tennis Tournament
-San Jose,Hard,2013,SAP Open
-Sao Paulo,Clay,2013,Brasil Open
-Buenos Aires,Clay,2013,Copa Claro
-Marseille,Hard,2013,Open 13
-Memphis,Hard,2013,U.S. National Indoor Tennis Championships
-Acapulco,Clay,2013,Abierto Mexicano
-Delray Beach,Hard,2013,International Championships
-Dubai ,Hard,2013,Dubai Tennis Championships
-Indian Wells,Hard,2013,BNP Paribas Open
-Miami,Hard,2013,Sony Ericsson Open
-Casablanca,Clay,2013,Grand Prix Hassan II
-Houston,Clay,2013,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2013,Monte Carlo Masters
-Barcelona,Clay,2013,Open Banco Sabadell
-Bucharest,Clay,2013,BRD Nastase Tiriac Trophy
-Munich,Clay,2013,BMW Open
-Oeiras,Clay,2013,Portugal Open
-Madrid,Clay,2013,Mutua Madrid Open
-Rome,Clay,2013,Internazionali BNL d'Italia
-Dusseldorf,Clay,2013,Power Horse Cup
-Nice,Clay,2013,Open de Nice Côte d’Azur
-Paris,Clay,2013,French Open
-Halle,Grass,2013,Gerry Weber Open
-Queens Club,Grass,2013,AEGON Championships
-Eastbourne,Grass,2013,AEGON International
-'s-Hertogenbosch,Grass,2013,Topshelf Open
-London,Grass,2013,Wimbledon
-Bastad,Clay,2013,SkiStar Swedish Open
-Newport,Grass,2013,Hall of Fame Championships
-Stuttgart,Clay,2013,Mercedes Cup
-Bogota,Clay,2013,Claro Open Colombia
-Hamburg,Clay,2013,German Open Tennis Championships
-Atlanta,Hard,2013,BB&T Atlanta Open
-Gstaad,Clay,2013,Crédit Agricole Suisse Open Gstaad
-Umag,Clay,2013,ATP Vegeta Croatia Open
-Kitzbuhel,Clay,2013,Bet-At-Home Cup
-Washington,Hard,2013,Citi Open
-Montreal,Hard,2013,Rogers Masters
-Cincinnati,Hard,2013,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2013,Winston-Salem Open at Wake Forest University
-New York,Hard,2013,US Open
-Metz,Hard,2013,Open de Moselle
-St. Petersburg,Hard,2013,St. Petersburg Open
-Bangkok,Hard,2013,Thailand Open
-Kuala Lumpur,Hard,2013,Malaysian Open
-Shanghai,Hard,2013,Shanghai Masters
-Moscow,Hard,2013,Kremlin Cup
-Stockholm,Hard,2013,Stockholm Open
-Vienna,Hard,2013,Erste Bank Open
-Basel,Hard,2013,Swiss Indoors
-Valencia,Hard,2013,Valencia Open 500
-Paris,Hard,2013,BNP Paribas Masters
-London,Hard,2013,Masters Cup
-Brisbane,Hard,2014,Brisbane International
-Chennai,Hard,2014,Chennai Open
-Doha,Hard,2014,Qatar Exxon Mobil Open
-Auckland,Hard,2014,Heineken Open
-Sydney,Hard,2014,Apia International
-Melbourne,Hard,2014,Australian Open
-Montpellier,Hard,2014,Open Sud de France
-Vina del Mar,Clay,2014,Royal Guard Open Chile
-Zagreb,Hard,2014,PBZ Zagreb Indoors
-Buenos Aires,Clay,2014,Copa Claro
-Memphis,Hard,2014,U.S. National Indoor Tennis Championships
-Rotterdam,Hard,2014,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2014,Delray Beach Open
-Marseille,Hard,2014,Open 13
-Rio de Janeiro,Clay,2014,Rio Open
-Acapulco,Hard,2014,Abierto Mexicano
-Dubai ,Hard,2014,Dubai Tennis Championships
-Sao Paulo,Clay,2014,Brasil Open
-Indian Wells,Hard,2014,BNP Paribas Open
-Miami,Hard,2014,Sony Ericsson Open
-Casablanca,Clay,2014,Grand Prix Hassan II
-Houston,Clay,2014,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2014,Monte Carlo Masters
-Barcelona,Clay,2014,Open Banco Sabadell
-Bucharest,Clay,2014,BRD Nastase Tiriac Trophy
-Munich,Clay,2014,BMW Open
-Oeiras,Clay,2014,Portugal Open
-Madrid,Clay,2014,Mutua Madrid Open
-Rome,Clay,2014,Internazionali BNL d'Italia
-Dusseldorf,Clay,2014,Dusseldorf Open
-Nice,Clay,2014,Open de Nice Côte d’Azur
-Paris,Clay,2014,French Open
-Halle,Grass,2014,Gerry Weber Open
-Queens Club,Grass,2014,AEGON Championships
-Eastbourne,Grass,2014,AEGON International
-'s-Hertogenbosch,Grass,2014,Topshelf Open
-London,Grass,2014,Wimbledon
-Bastad,Clay,2014,SkiStar Swedish Open
-Newport,Grass,2014,Hall of Fame Championships
-Stuttgart,Clay,2014,Mercedes Cup
-Bogota,Clay,2014,Claro Open Colombia
-Hamburg,Clay,2014,bet-at-home Open
-Atlanta,Hard,2014,BB&T Atlanta Open
-Gstaad,Clay,2014,Crédit Agricole Suisse Open Gstaad
-Umag,Clay,2014,ATP Vegeta Croatia Open
-Kitzbuhel,Clay,2014,Bet-At-Home Cup
-Washington,Hard,2014,Citi Open
-Toronto,Hard,2014,Rogers Masters
-Cincinnati,Hard,2014,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2014,Winston-Salem Open at Wake Forest University
-New York,Hard,2014,US Open
-Metz,Hard,2014,Open de Moselle
-Kuala Lumpur,Hard,2014,Malaysian Open
-Shenzhen ,Hard,2014,Shenzhen Open
-Beijing,Hard,2014,China Open
-Tokyo,Hard,2014,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2014,Shanghai Masters
-Moscow,Hard,2014,Kremlin Cup
-Stockholm,Hard,2014,Stockholm Open
-Vienna,Hard,2014,Erste Bank Open
-Basel,Hard,2014,Swiss Indoors
-Valencia,Hard,2014,Valencia Open 500
-Paris,Hard,2014,BNP Paribas Masters
-London,Hard,2014,Masters Cup
-Brisbane,Hard,2015,Brisbane International
-Chennai,Hard,2015,Chennai Open
-Doha,Hard,2015,Qatar Exxon Mobil Open
-Auckland,Hard,2015,Heineken Open
-Sydney,Hard,2015,Apia International
-Melbourne,Hard,2015,Australian Open
-Montpellier,Hard,2015,Open Sud de France
-Quito,Clay,2015,Ecuador Open
-Zagreb,Hard,2015,PBZ Zagreb Indoors
-Memphis,Hard,2015,Memphis Open
-Rotterdam,Hard,2015,ABN AMRO World Tennis Tournament
-Sao Paulo,Clay,2015,Brasil Open
-Delray Beach,Hard,2015,Delray Beach Open
-Marseille,Hard,2015,Open 13
-Rio de Janeiro,Clay,2015,Rio Open
-Acapulco,Hard,2015,Abierto Mexicano
-Buenos Aires,Clay,2015,Argentina Open
-Dubai ,Hard,2015,Dubai Tennis Championships
-Indian Wells,Hard,2015,BNP Paribas Open
-Miami,Hard,2015,Sony Ericsson Open
-Casablanca,Clay,2015,Grand Prix Hassan II
-Houston,Clay,2015,U.S. Men's Clay Court Championships
-Monte Carlo,Clay,2015,Monte Carlo Masters
-Barcelona,Clay,2015,Open Banco Sabadell
-Bucharest,Clay,2015,BRD Nastase Tiriac Trophy
-Estoril,Clay,2015,Millenium Estoril Open
-Istanbul,Clay,2015,Istanbul Open
-Munich,Clay,2015,BMW Open
-Madrid,Clay,2015,Mutua Madrid Open
-Rome,Clay,2015,Internazionali BNL d'Italia
-Geneva,Clay,2015,Geneva Open
-Nice,Clay,2015,Open de Nice Côte d’Azur
-Paris,Clay,2015,French Open
-'s-Hertogenbosch,Grass,2015,Topshelf Open
-Stuttgart,Grass,2015,Mercedes Cup
-Halle,Grass,2015,Gerry Weber Open
-Queens Club,Grass,2015,AEGON Championships
-Nottingham,Grass,2015,AEGON Open
-London,Grass,2015,Wimbledon
-Newport,Grass,2015,Hall of Fame Championships
-Bastad,Clay,2015,SkiStar Swedish Open
-Bogota,Clay,2015,Claro Open Colombia
-Umag,Clay,2015,Konzum Croatia Open
-Atlanta,Hard,2015,BB&T Atlanta Open
-Gstaad,Clay,2015,Suisse Open Gstaad
-Hamburg,Clay,2015,bet-at-home Open
-Kitzbuhel,Clay,2015,Generali Open
-Washington,Hard,2015,Citi Open
-Montreal,Hard,2015,Rogers Masters
-Cincinnati,Hard,2015,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2015,Winston-Salem Open at Wake Forest University
-New York,Hard,2015,US Open
-Metz,Hard,2015,Open de Moselle
-St. Petersburg,Hard,2015,St. Petersburg Open
-Kuala Lumpur,Hard,2015,Malaysian Open
-Shenzhen ,Hard,2015,Shenzhen Open
-Beijing,Hard,2015,China Open
-Tokyo,Hard,2015,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2015,Shanghai Masters
-Moscow,Hard,2015,Kremlin Cup
-Stockholm,Hard,2015,Stockholm Open
-Vienna,Hard,2015,Erste Bank Open
-Basel,Hard,2015,Swiss Indoors
-Valencia,Hard,2015,Valencia Open 500
-Paris,Hard,2015,BNP Paribas Masters
-London,Hard,2015,Masters Cup
-Brisbane,Hard,2016,Brisbane International
-Chennai,Hard,2016,Chennai Open
-Doha,Hard,2016,Qatar Exxon Mobil Open
-Auckland,Hard,2016,ASB Classic
-Sydney,Hard,2016,Apia International
-Melbourne,Hard,2016,Australian Open
-Montpellier,Hard,2016,Open Sud de France
-Quito,Clay,2016,Ecuador Open
-Sofia,Hard,2016,Garanti Koza Sofia Open
-Buenos Aires,Clay,2016,Argentina Open
-Memphis,Hard,2016,Memphis Open
-Rotterdam,Hard,2016,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2016,Delray Beach Open
-Marseille,Hard,2016,Open 13
-Rio de Janeiro,Clay,2016,Rio Open
-Acapulco,Hard,2016,Abierto Mexicano
-Dubai ,Hard,2016,Dubai Tennis Championships
-Sao Paulo,Clay,2016,Brasil Open
-Indian Wells,Hard,2016,BNP Paribas Open
-Miami,Hard,2016,Sony Ericsson Open
-Houston,Clay,2016,U.S. Men's Clay Court Championships
-Marrakech,Clay,2016,Grand Prix Hassan II
-Monte Carlo,Clay,2016,Monte Carlo Masters
-Barcelona,Clay,2016,Open Banco Sabadell
-Bucharest,Clay,2016,BRD Nastase Tiriac Trophy
-Estoril,Clay,2016,Millenium Estoril Open
-Istanbul,Clay,2016,Istanbul Open
-Munich,Clay,2016,BMW Open
-Madrid,Clay,2016,Mutua Madrid Open
-Rome,Clay,2016,Internazionali BNL d'Italia
-Geneva,Clay,2016,Geneva Open
-Nice,Clay,2016,Open de Nice Côte d’Azur
-Paris,Clay,2016,French Open
-'s-Hertogenbosch,Grass,2016,Topshelf Open
-Stuttgart,Grass,2016,Mercedes Cup
-Halle,Grass,2016,Gerry Weber Open
-Queens Club,Grass,2016,AEGON Championships
-Nottingham,Grass,2016,AEGON Open
-London,Grass,2016,Wimbledon
-Bastad,Clay,2016,SkiStar Swedish Open
-Hamburg,Clay,2016,German Tennis Championships
-Newport,Grass,2016,Hall of Fame Championships
-Gstaad,Clay,2016,Suisse Open Gstaad
-Kitzbuhel,Clay,2016,Generali Open
-Umag,Clay,2016,Konzum Croatia Open
-Washington,Hard,2016,Citi Open
-Toronto,Hard,2016,Rogers Masters
-Atlanta,Hard,2016,BB&T Atlanta Open
-Los Cabos,Hard,2016,Abierto Mexicano Mifel
-Cincinnati,Hard,2016,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2016,Winston-Salem Open at Wake Forest University
-New York,Hard,2016,US Open
-Metz,Hard,2016,Open de Moselle
-St. Petersburg,Hard,2016,St. Petersburg Open
-Chengdu,Hard,2016,Chengdu Open
-Shenzhen ,Hard,2016,Shenzhen Open
-Beijing,Hard,2016,China Open
-Tokyo,Hard,2016,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2016,Shanghai Masters
-Antwerp,Hard,2016,European Open
-Moscow,Hard,2016,Kremlin Cup
-Stockholm,Hard,2016,Stockholm Open
-Basel,Hard,2016,Swiss Indoors
-Vienna,Hard,2016,Erste Bank Open
-Paris,Hard,2016,BNP Paribas Masters
-London,Hard,2016,Masters Cup
-Brisbane,Hard,2017,Brisbane International
-Chennai,Hard,2017,Chennai Open
-Doha,Hard,2017,Qatar Exxon Mobil Open
-Auckland,Hard,2017,ASB Classic
-Sydney,Hard,2017,Apia International
-Melbourne,Hard,2017,Australian Open
-Montpellier,Hard,2017,Open Sud de France
-Quito,Clay,2017,Ecuador Open
-Sofia,Hard,2017,Garanti Koza Sofia Open
-Buenos Aires,Clay,2017,Argentina Open
-Memphis,Hard,2017,Memphis Open
-Rotterdam,Hard,2017,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2017,Delray Beach Open
-Marseille,Hard,2017,Open 13
-Rio de Janeiro,Clay,2017,Rio Open
-Acapulco,Hard,2017,Abierto Mexicano
-Dubai ,Hard,2017,Dubai Tennis Championships
-Sao Paulo,Clay,2017,Brasil Open
-Indian Wells,Hard,2017,BNP Paribas Open
-Miami,Hard,2017,Sony Ericsson Open
-Houston,Clay,2017,U.S. Men's Clay Court Championships
-Marrakech,Clay,2017,Grand Prix Hassan II
-Monte Carlo,Clay,2017,Monte Carlo Masters
-Barcelona,Clay,2017,Open Banco Sabadell 
-Budapest,Clay,2017,Gazprom Hungarian Open
-Estoril,Clay,2017,Millenium Estoril Open
-Istanbul,Clay,2017,Istanbul Open
-Munich,Clay,2017,BMW Open
-Madrid,Clay,2017,Mutua Madrid Open
-Rome,Clay,2017,Internazionali BNL d'Italia
-Geneva,Clay,2017,Geneva Open
-Lyon,Clay,2017,Lyon Open
-Paris,Clay,2017,French Open
-'s-Hertogenbosch,Grass,2017,Ricoh Open
-Stuttgart,Grass,2017,Mercedes Cup
-Halle,Grass,2017,Gerry Weber Open
-Queens Club,Grass,2017,AEGON Championships
-Antalya,Grass,2017,Antalya Open
-Eastbourne,Grass,2017,AEGON International
-London,Grass,2017,Wimbledon
-Bastad,Clay,2017,SkiStar Swedish Open
-Newport,Grass,2017,Hall of Fame Championships
-Umag,Clay,2017,Croatia Open
-Atlanta,Hard,2017,BB&T Atlanta Open
-Gstaad,Clay,2017,Suisse Open Gstaad
-Hamburg,Clay,2017,German Tennis Championships
-Kitzbuhel,Clay,2017,Generali Open
-Los Cabos,Hard,2017,Abierto Mexicano Mifel
-Washington,Hard,2017,Citi Open
-Montreal,Hard,2017,Rogers Masters
-Cincinnati,Hard,2017,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2017,Winston-Salem Open at Wake Forest University
-New York,Hard,2017,US Open
-Metz,Hard,2017,Open de Moselle
-St. Petersburg,Hard,2017,St. Petersburg Open
-Chengdu,Hard,2017,Chengdu Open
-Shenzhen ,Hard,2017,Shenzhen Open
-Beijing,Hard,2017,China Open
-Tokyo,Hard,2017,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2017,Shanghai Masters
-Antwerp,Hard,2017,European Open
-Moscow,Hard,2017,Kremlin Cup
-Stockholm,Hard,2017,Stockholm Open
-Basel,Hard,2017,Swiss Indoors
-Vienna,Hard,2017,Erste Bank Open
-Paris,Hard,2017,BNP Paribas Masters
-London,Hard,2017,Masters Cup
-Brisbane,Hard,2018,Brisbane International
-Doha,Hard,2018,Qatar Exxon Mobil Open
-Pune,Hard,2018,Tata Open
-Auckland,Hard,2018,ASB Classic
-Sydney,Hard,2018,Sydney International
-Melbourne,Hard,2018,Australian Open
-Montpellier,Hard,2018,Open Sud de France
-Quito,Clay,2018,Ecuador Open
-Sofia,Hard,2018,Garanti Koza Sofia Open
-Buenos Aires,Clay,2018,Argentina Open
-New York,Hard,2018,New York Open
-Rotterdam,Hard,2018,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2018,Delray Beach Open
-Marseille,Hard,2018,Open 13
-Rio de Janeiro,Clay,2018,Rio Open
-Acapulco,Hard,2018,Abierto Mexicano
-Dubai ,Hard,2018,Dubai Tennis Championships
-Sao Paulo,Clay,2018,Brasil Open
-Indian Wells,Hard,2018,BNP Paribas Open
-Miami,Hard,2018,Sony Ericsson Open
-Houston,Clay,2018,U.S. Men's Clay Court Championships
-Marrakech,Clay,2018,Grand Prix Hassan II
-Monte Carlo,Clay,2018,Monte Carlo Masters
-Barcelona,Clay,2018,Open Banco Sabadell 
-Budapest,Clay,2018,Gazprom Hungarian Open
-Estoril,Clay,2018,Millennium Estoril Open
-Istanbul,Clay,2018,Istanbul Open
-Munich,Clay,2018,BMW Open
-Madrid,Clay,2018,Mutua Madrid Open
-Rome,Clay,2018,Internazionali BNL d'Italia
-Geneva,Clay,2018,Geneva Open
-Lyon,Clay,2018,Lyon Open
-Paris,Clay,2018,French Open
-'s-Hertogenbosch,Grass,2018,Ricoh Open
-Stuttgart,Grass,2018,Mercedes Cup
-Halle,Grass,2018,Gerry Weber Open
-Queens Club,Grass,2018,AEGON Championships
-Antalya,Grass,2018,Antalya Open
-Eastbourne,Grass,2018,Eastbourne International
-London,Grass,2018,Wimbledon
-Bastad,Clay,2018,SkiStar Swedish Open
-Newport,Grass,2018,Hall of Fame Championships
-Umag,Clay,2018,Croatia Open
-Atlanta,Hard,2018,BB&T Atlanta Open
-Gstaad,Clay,2018,Suisse Open Gstaad
-Hamburg,Clay,2018,German Tennis Championships
-Kitzbuhel,Clay,2018,Generali Open
-Los Cabos,Hard,2018,Abierto Mexicano Mifel
-Washington,Hard,2018,Citi Open
-Toronto,Hard,2018,Rogers Masters
-Cincinnati,Hard,2018,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2018,Winston-Salem Open at Wake Forest University
-New York,Hard,2018,US Open
-Metz,Hard,2018,Open de Moselle
-St. Petersburg,Hard,2018,St. Petersburg Open
-Chengdu,Hard,2018,Chengdu Open
-Shenzhen ,Hard,2018,Shenzhen Open
-Beijing,Hard,2018,China Open
-Tokyo,Hard,2018,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2018,Shanghai Masters
-Antwerp,Hard,2018,European Open
-Moscow,Hard,2018,Kremlin Cup
-Stockholm,Hard,2018,Stockholm Open
-Basel,Hard,2018,Swiss Indoors
-Vienna,Hard,2018,Erste Bank Open
-Paris,Hard,2018,BNP Paribas Masters
-London,Hard,2018,Masters Cup
-Brisbane,Hard,2019,Brisbane International
-Doha,Hard,2019,Qatar Exxon Mobil Open
-Pune,Hard,2018,Maharashtra Open
-Pune,Hard,2019,Maharashtra Open
-Auckland,Hard,2019,ASB Classic
-Sydney,Hard,2019,Sydney International
-Melbourne,Hard,2019,Australian Open
-Cordoba,Clay,2019,Cordoba Open
-Montpellier,Hard,2019,Open Sud de France
-Sofia,Hard,2019,Sofia Open
-Buenos Aires,Clay,2019,Argentina Open
-New York,Hard,2019,New York Open
-Rotterdam,Hard,2019,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2019,Delray Beach Open
-Marseille,Hard,2019,Open 13
-Rio de Janeiro,Clay,2019,Rio Open
-Acapulco,Hard,2019,Abierto Mexicano
-Dubai ,Hard,2019,Dubai Tennis Championships
-Sao Paulo,Clay,2019,Brasil Open
-Indian Wells,Hard,2019,BNP Paribas Open
-Miami,Hard,2019,Sony Ericsson Open
-Houston,Clay,2019,U.S. Men's Clay Court Championships
-Marrakech,Clay,2019,Grand Prix Hassan II
-Monte Carlo,Clay,2019,Monte Carlo Masters
-Barcelona,Clay,2019,Open Banco Sabadell 
-Budapest,Clay,2019,Hungarian Open
-Estoril,Clay,2019,Millennium Estoril Open
-Munich,Clay,2019,BMW Open
-Madrid,Clay,2019,Mutua Madrid Open
-Rome,Clay,2019,Internazionali BNL d'Italia
-Geneva,Clay,2019,Geneva Open
-Lyon,Clay,2019,Lyon Open
-Paris,Clay,2019,French Open
-'s-Hertogenbosch,Grass,2019,Rosmalen Grass Court Championships
-Stuttgart,Grass,2019,Mercedes Cup
-Halle,Grass,2019,Halle Open
-Queens Club,Grass,2019,Queen's Club Championships
-Antalya,Grass,2019,Antalya Open
-Eastbourne,Grass,2019,Eastbourne International
-London,Grass,2019,Wimbledon
-Bastad,Clay,2019,SkiStar Swedish Open
-Newport,Grass,2019,Hall of Fame Championships
-Umag,Clay,2019,Croatia Open
-Atlanta,Hard,2019,BB&T Atlanta Open
-Gstaad,Clay,2019,Suisse Open Gstaad
-Hamburg,Clay,2019,German Tennis Championships
-Kitzbuhel,Clay,2019,Generali Open
-Los Cabos,Hard,2019,Abierto Mexicano Mifel
-Washington,Hard,2019,Citi Open
-Montreal,Hard,2019,Rogers Masters
-Cincinnati,Hard,2019,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2019,Winston-Salem Open at Wake Forest University
-New York,Hard,2019,US Open
-Metz,Hard,2019,Open de Moselle
-St. Petersburg,Hard,2019,St. Petersburg Open
-Chengdu,Hard,2019,Chengdu Open
-Zhuhai,Hard,2019,Zhuhai Open
-Beijing,Hard,2019,China Open
-Tokyo,Hard,2019,Rakuten Japan Open Tennis Championships
-Shanghai,Hard,2019,Shanghai Masters
-Antwerp,Hard,2019,European Open
-Moscow,Hard,2019,Kremlin Cup
-Stockholm,Hard,2019,Stockholm Open
-Basel,Hard,2019,Swiss Indoors
-Vienna,Hard,2019,Erste Bank Open
-Paris,Hard,2019,BNP Paribas Masters
-London,Hard,2019,Masters Cup
-Doha,Hard,2020,Qatar Exxon Mobil Open
-Auckland,Hard,2020,ASB Classic
-Adelaide,Hard,2020,Adelaide International
-Melbourne,Hard,2020,Australian Open
-Cordoba,Clay,2020,Cordoba Open
-Montpellier,Hard,2020,Open Sud de France
-Pune,Hard,2020,Maharashtra Open
-Buenos Aires,Clay,2020,Argentina Open
-New York,Hard,2020,New York Open
-Rotterdam,Hard,2020,ABN AMRO World Tennis Tournament
-Delray Beach,Hard,2020,Delray Beach Open
-Marseille,Hard,2020,Open 13
-Rio de Janeiro,Clay,2020,Rio Open
-Acapulco,Hard,2020,Abierto Mexicano
-Dubai ,Hard,2020,Dubai Tennis Championships
-Santiago,Clay,2020,Chile Open
-New York,Hard,2020,Western & Southern Financial Group Masters
-Kitzbuhel,Clay,2020,Generali Open
-New York,Hard,2020,US Open
-Rome,Clay,2020,Internazionali BNL d'Italia
-Hamburg,Clay,2020,German Tennis Championships
-Paris,Clay,2020,French Open
-Cologne,Hard,2020,bett1HULKS Indoors
-Sardinia,Clay,2020,Forte Village Sardegna Open
-St. Petersburg,Hard,2020,St. Petersburg Open
-Antwerp,Hard,2020,European Open
-Cologne,Hard,2020,bett1HULKS Championship
-Nur-Sultan,Hard,2020,Astana Open
-Vienna,Hard,2020,Erste Bank Open
-Paris,Hard,2020,BNP Paribas Masters
-Sofia,Hard,2020,Sofia Open
-London,Hard,2020,Masters Cup
-Antalya,Hard,2021,Antalya Open
-Delray Beach,Hard,2021,Delray Beach Open
-Melbourne,Hard,2021,Great Ocean Road Open
-Melbourne,Hard,2021,Murray River Open
-Melbourne,Hard,2021,Australian Open
-Cordoba,Clay,2021,Cordoba Open
-Montpellier,Hard,2021,Open Sud de France
-Singapore,Hard,2021,Singapore Open
-Buenos Aires,Clay,2021,Argentina Open
-Rotterdam,Hard,2021,ABN AMRO World Tennis Tournament
-Doha,Hard,2021,Qatar Exxon Mobil Open
-Marseille,Hard,2021,Open 13
-Santiago,Clay,2021,Chile Open
-Acapulco,Hard,2021,Abierto Mexicano
-Dubai ,Hard,2021,Dubai Tennis Championships
-Miami,Hard,2021,Miami Open
-Cagliari,Hard,2021,Sardegna Open
-Marbella,Hard,2021,AnyTech365 Andalucia Open
-Monte Carlo,Clay,2021,Monte Carlo Masters
-Barcelona,Clay,2021,Barcelona Open
-Belgrade,Clay,2021,Serbia Open
-Estoril,Clay,2021,Millennium Estoril Open
-Munich,Clay,2021,BMW Open
-Madrid,Clay,2021,Mutua Madrid Open
-Rome,Clay,2021,Internazionali BNL d'Italia
-Geneva,Clay,2021,Geneva Open
-Lyon,Clay,2021,Lyon Open
-Belgrade,Clay,2021,Belgrade Open
-Parma,Clay,2021,Emilia-Romagna Open
-Paris,Clay,2021,French Open
-Stuttgart,Grass,2021,Mercedes Cup
-Halle,Grass,2021,Halle Open
-Queens Club,Grass,2021,Queen's Club Championships
-Eastbourne,Grass,2021,Viking International
-Mallorca,Grass,2021,Mallorca Championships
-London,Grass,2021,Wimbledon
-Bastad,Clay,2021,Nordea Open
-Hamburg,Clay,2021,European Open
-Newport,Grass,2021,Hall of Fame Championships
-Gstaad,Clay,2021,Suisse Open Gstaad
-Los Cabos,Hard,2021,Mifel Open
-Umag,Clay,2021,Croatia Open
-Atlanta,Hard,2021,BB&T Atlanta Open
-Kitzbuhel,Clay,2021,Generali Open
-Washington,Hard,2021,Citi Open
-Toronto,Hard,2021,Canadian Open
-Cincinnati,Hard,2021,Western & Southern Financial Group Masters
-Winston-Salem,Hard,2021,Winston-Salem Open at Wake Forest University
-New York,Hard,2021,US Open
-Metz,Hard,2021,Open de Moselle
-Nur-Sultan,Hard,2021,Astana Open
-San Diego,Hard,2021,San Diego Open
-Sofia,Hard,2021,Sofia Open
-Indian Wells,Hard,2021,BNP Paribas Open
-Antwerp,Hard,2021,European Open
-Moscow,Hard,2021,Kremlin Cup
-St. Petersburg,Hard,2021,St. Petersburg Open
-Vienna,Hard,2021,Vienna Open
+Location,Surface,Year,Tournament,country
+Brisbane,Hard,2010,Brisbane International,AUS
+Chennai,Hard,2010,Chennai Open,IND
+Doha,Hard,2010,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2010,Heineken Open,NZL
+Sydney,Hard,2010,Medibank International,AUS
+Melbourne,Hard,2010,Australian Open,AUS
+Johannesburg,Hard,2010,SA Tennis Open,ZAF
+Santiago,Clay,2010,Movistar Open,CHL
+Zagreb,Hard,2010,PBZ Zagreb Indoors,HRV
+Costa Do Sauipe,Clay,2010,Brasil Open,BRA
+Rotterdam,Hard,2010,ABN AMRO World Tennis Tournament,NLD
+San Jose,Hard,2010,SAP Open,USA
+Buenos Aires,Clay,2010,Copa Telmex,ARG
+Marseille,Hard,2010,Open 13,FRA
+Memphis,Hard,2010,Regions Morgan Keegan Championships,USA
+Acapulco,Clay,2010,Abierto Mexicano,MEX
+Delray Beach,Hard,2010,International Championships,USA
+Dubai,Hard,2010,Dubai Tennis Championships,ARE
+Indian Wells,Hard,2010,BNP Paribas Open,USA
+Miami,Hard,2010,Sony Ericsson Open,USA
+Casablanca,Clay,2010,Grand Prix Hassan II,MAR
+Houston,Clay,2010,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2010,Monte Carlo Masters,MCO
+Barcelona,Clay,2010,Open Banco Sabadell,ESP
+Rome,Clay,2010,Internazionali BNL d'Italia,ITA
+Belgrade,Clay,2010,Serbia Open,SRB
+Estoril,Clay,2010,Estoril Open,PRT
+Munich,Clay,2010,BMW Open,DEU
+Madrid,Clay,2010,Mutua Madrileña Madrid Open,ESP
+Nice,Clay,2010,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2010,French Open,FRA
+Halle,Grass,2010,Gerry Weber Open,DEU
+Queens Club,Grass,2010,AEGON Championships,GBR
+Eastbourne,Grass,2010,AEGON International,GBR
+'s-Hertogenbosch,Grass,2010,Unicef Open,NLD
+London,Grass,2010,Wimbledon,GBR
+Newport,Grass,2010,Hall of Fame Championships,USA
+Bastad,Clay,2010,SkiStar Swedish Open,SWE
+Stuttgart,Clay,2010,Mercedes Cup,DEU
+Atlanta,Hard,2010,Atlanta Tennis Championships,USA
+Hamburg,Clay,2010,German Open Tennis Championships,DEU
+Gstaad,Clay,2010,Allianz Suisse Open,CHE
+Los Angeles,Hard,2010,Farmers Classic,USA
+Umag,Clay,2010,Studena Croatia Open,HRV
+Washington,Hard,2010,Legg Mason Classic,USA
+Toronto,Hard,2010,Rogers Masters,CAN
+Cincinnati,Hard,2010,Western & Southern Financial Group Masters,USA
+New Haven,Hard,2010,Pilot Pen Tennis,USA
+New York,Hard,2010,US Open,USA
+Bucharest,Clay,2010,Open Romania,ROU
+Metz,Hard,2010,Open de Moselle,FRA
+Bangkok,Hard,2010,Thailand Open,THA
+Kuala Lumpur,Hard,2010,Proton Malaysian Open,MYS
+Beijing,Hard,2010,China Open,CHN
+Tokyo,Hard,2010,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2010,Shanghai Masters,CHN
+Moscow,Hard,2010,Kremlin Cup,RUS
+Stockholm,Hard,2010,Stockholm Open,SWE
+Montpellier,Hard,2010,Open Sud de France,FRA
+St. Petersburg,Hard,2010,St. Petersburg Open,USA
+Vienna,Hard,2010,BA-CA Tennis Trophy,AUT
+Basel,Hard,2010,Swiss Indoors,CHE
+Valencia,Hard,2010,Valencia Open 500,VEN
+Paris,Hard,2010,BNP Paribas Masters,FRA
+London,Hard,2010,Masters Cup,GBR
+Brisbane,Hard,2011,Brisbane International,AUS
+Chennai,Hard,2011,Chennai Open,IND
+Doha,Hard,2011,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2011,Heineken Open,NZL
+Sydney,Hard,2011,Medibank International,AUS
+Melbourne,Hard,2011,Australian Open,AUS
+Johannesburg,Hard,2011,SA Tennis Open,ZAF
+Santiago,Clay,2011,Movistar Open,CHL
+Zagreb,Hard,2011,PBZ Zagreb Indoors,HRV
+Costa Do Sauipe,Clay,2011,Brasil Open,BRA
+Rotterdam,Hard,2011,ABN AMRO World Tennis Tournament,NLD
+San Jose,Hard,2011,SAP Open,USA
+Buenos Aires,Clay,2011,Copa Claro,ARG
+Marseille,Hard,2011,Open 13,FRA
+Memphis,Hard,2011,Regions Morgan Keegan Championships,USA
+Acapulco,Clay,2011,Abierto Mexicano,MEX
+Delray Beach,Hard,2011,International Championships,USA
+Dubai,Hard,2011,Dubai Tennis Championships,ARE
+Indian Wells,Hard,2011,BNP Paribas Open,USA
+Miami,Hard,2011,Sony Ericsson Open,USA
+Casablanca,Clay,2011,Grand Prix Hassan II,MAR
+Houston,Clay,2011,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2011,Monte Carlo Masters,MCO
+Barcelona,Clay,2011,Open Banco Sabadell,ESP
+Belgrade,Clay,2011,Serbia Open,SRB
+Estoril,Clay,2011,Estoril Open,PRT
+Munich,Clay,2011,BMW Open,DEU
+Madrid,Clay,2011,Mutua Madrileña Madrid Open,ESP
+Rome,Clay,2011,Internazionali BNL d'Italia,ITA
+Nice,Clay,2011,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2011,French Open,FRA
+Halle,Grass,2011,Gerry Weber Open,DEU
+Queens Club,Grass,2011,AEGON Championships,GBR
+Eastbourne,Grass,2011,AEGON International,GBR
+'s-Hertogenbosch,Grass,2011,Unicef Open,NLD
+London,Grass,2011,Wimbledon,GBR
+Newport,Grass,2011,Hall of Fame Championships,USA
+Bastad,Clay,2011,SkiStar Swedish Open,SWE
+Stuttgart,Clay,2011,Mercedes Cup,DEU
+Atlanta,Hard,2011,Atlanta Tennis Championships,USA
+Hamburg,Clay,2011,German Open Tennis Championships,DEU
+Gstaad,Clay,2011,Allianz Suisse Open,CHE
+Los Angeles,Hard,2011,Farmers Classic,USA
+Umag,Clay,2011,Studena Croatia Open,HRV
+Kitzbuhel,Clay,2011,Bet-At-Home Cup,AUT
+Washington,Hard,2011,Legg Mason Classic,USA
+Montreal,Hard,2011,Rogers Masters,CAN
+Cincinnati,Hard,2011,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2011,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2011,US Open,USA
+Bucharest,Clay,2011,Open Romania,ROU
+Metz,Hard,2011,Open de Moselle,FRA
+Bangkok,Hard,2011,Thailand Open,THA
+Kuala Lumpur,Hard,2011,Malaysian Open,MYS
+Beijing,Hard,2011,China Open,CHN
+Tokyo,Hard,2011,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2011,Shanghai Masters,CHN
+Moscow,Hard,2011,Kremlin Cup,RUS
+Stockholm,Hard,2011,Stockholm Open,SWE
+St. Petersburg,Hard,2011,St. Petersburg Open,USA
+Vienna,Hard,2011,Erste Bank Open,AUT
+Basel,Hard,2011,Swiss Indoors,CHE
+Valencia,Hard,2011,Valencia Open 500,VEN
+Paris,Hard,2011,BNP Paribas Masters,FRA
+London,Hard,2011,Masters Cup,GBR
+Brisbane,Hard,2012,Brisbane International,AUS
+Chennai,Hard,2012,Chennai Open,IND
+Doha,Hard,2012,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2012,Heineken Open,NZL
+Sydney,Hard,2012,Apia International,AUS
+Melbourne,Hard,2012,Australian Open,AUS
+Montpellier,Hard,2012,Open Sud de France,FRA
+Vina del Mar,Clay,2012,VTR Open,CHL
+Zagreb,Hard,2012,PBZ Zagreb Indoors,HRV
+Rotterdam,Hard,2012,ABN AMRO World Tennis Tournament,NLD
+San Jose,Hard,2012,SAP Open,USA
+Sao Paulo,Clay,2012,Brasil Open,BRA
+Buenos Aires,Clay,2012,Copa Claro,ARG
+Marseille,Hard,2012,Open 13,FRA
+Memphis,Hard,2012,Regions Morgan Keegan Championships,USA
+Acapulco,Clay,2012,Abierto Mexicano,MEX
+Delray Beach,Hard,2012,International Championships,USA
+Dubai,Hard,2012,Dubai Tennis Championships,ARE
+Indian Wells,Hard,2012,BNP Paribas Open,USA
+Miami,Hard,2012,Sony Ericsson Open,USA
+Casablanca,Clay,2012,Grand Prix Hassan II,MAR
+Houston,Clay,2012,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2012,Monte Carlo Masters,MCO
+Barcelona,Clay,2012,Open Banco Sabadell,ESP
+Bucharest,Clay,2012,BRD Nastase Tiriac Trophy,ROU
+Belgrade,Clay,2012,Serbia Open,SRB
+Estoril,Clay,2012,Estoril Open,PRT
+Munich,Clay,2012,BMW Open,DEU
+Madrid,Clay,2012,Mutua Madrid Open,ESP
+Rome,Clay,2012,Internazionali BNL d'Italia,ITA
+Nice,Clay,2012,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2012,French Open,FRA
+Halle,Grass,2012,Gerry Weber Open,DEU
+Queens Club,Grass,2012,AEGON Championships,GBR
+Eastbourne,Grass,2012,AEGON International,GBR
+'s-Hertogenbosch,Grass,2012,Unicef Open,NLD
+London,Grass,2012,Wimbledon,GBR
+Bastad,Clay,2012,SkiStar Swedish Open,SWE
+Newport,Grass,2012,Hall of Fame Championships,USA
+Stuttgart,Clay,2012,Mercedes Cup,DEU
+Umag,Clay,2012,ATP Vegeta Croatia Open,HRV
+Atlanta,Hard,2012,BB&T Atlanta Open,USA
+Gstaad,Clay,2012,Crédit Agricole Suisse Open Gstaad,CHE
+Hamburg,Clay,2012,German Open Tennis Championships,DEU
+Kitzbuhel,Clay,2012,Bet-At-Home Cup,AUT
+Los Angeles,Hard,2012,Farmers Classic,USA
+Washington,Hard,2012,Citi Open,USA
+Toronto,Hard,2012,Rogers Masters,CAN
+Cincinnati,Hard,2012,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2012,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2012,US Open,USA
+Metz,Hard,2012,Open de Moselle,FRA
+St. Petersburg,Hard,2012,St. Petersburg Open,USA
+Bangkok,Hard,2012,Thailand Open,THA
+Kuala Lumpur,Hard,2012,Malaysian Open,MYS
+Beijing,Hard,2012,China Open,CHN
+Tokyo,Hard,2012,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2012,Shanghai Masters,CHN
+Moscow,Hard,2012,Kremlin Cup,RUS
+Stockholm,Hard,2012,Stockholm Open,SWE
+Vienna,Hard,2012,Erste Bank Open,AUT
+Basel,Hard,2012,Swiss Indoors,CHE
+Valencia,Hard,2012,Valencia Open 500,VEN
+Paris,Hard,2012,BNP Paribas Masters,FRA
+London,Hard,2012,Masters Cup,GBR
+Brisbane,Hard,2013,Brisbane International,AUS
+Chennai,Hard,2013,Chennai Open,IND
+Doha,Hard,2013,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2013,Heineken Open,NZL
+Sydney,Hard,2013,Apia International,AUS
+Melbourne,Hard,2013,Australian Open,AUS
+Montpellier,Hard,2013,Open Sud de France,FRA
+Vina del Mar,Clay,2013,VTR Open,CHL
+Zagreb,Hard,2013,PBZ Zagreb Indoors,HRV
+Rotterdam,Hard,2013,ABN AMRO World Tennis Tournament,NLD
+San Jose,Hard,2013,SAP Open,USA
+Sao Paulo,Clay,2013,Brasil Open,BRA
+Buenos Aires,Clay,2013,Copa Claro,ARG
+Marseille,Hard,2013,Open 13,FRA
+Memphis,Hard,2013,U.S. National Indoor Tennis Championships,USA
+Acapulco,Clay,2013,Abierto Mexicano,MEX
+Delray Beach,Hard,2013,International Championships,USA
+Dubai,Hard,2013,Dubai Tennis Championships,ARE
+Indian Wells,Hard,2013,BNP Paribas Open,USA
+Miami,Hard,2013,Sony Ericsson Open,USA
+Casablanca,Clay,2013,Grand Prix Hassan II,MAR
+Houston,Clay,2013,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2013,Monte Carlo Masters,MCO
+Barcelona,Clay,2013,Open Banco Sabadell,ESP
+Bucharest,Clay,2013,BRD Nastase Tiriac Trophy,ROU
+Munich,Clay,2013,BMW Open,DEU
+Oeiras,Clay,2013,Portugal Open,PRT
+Madrid,Clay,2013,Mutua Madrid Open,ESP
+Rome,Clay,2013,Internazionali BNL d'Italia,ITA
+Dusseldorf,Clay,2013,Power Horse Cup,DEU
+Nice,Clay,2013,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2013,French Open,FRA
+Halle,Grass,2013,Gerry Weber Open,DEU
+Queens Club,Grass,2013,AEGON Championships,GBR
+Eastbourne,Grass,2013,AEGON International,GBR
+'s-Hertogenbosch,Grass,2013,Topshelf Open,NLD
+London,Grass,2013,Wimbledon,GBR
+Bastad,Clay,2013,SkiStar Swedish Open,SWE
+Newport,Grass,2013,Hall of Fame Championships,USA
+Stuttgart,Clay,2013,Mercedes Cup,DEU
+Bogota,Clay,2013,Claro Open Colombia,USA
+Hamburg,Clay,2013,German Open Tennis Championships,DEU
+Atlanta,Hard,2013,BB&T Atlanta Open,USA
+Gstaad,Clay,2013,Crédit Agricole Suisse Open Gstaad,CHE
+Umag,Clay,2013,ATP Vegeta Croatia Open,HRV
+Kitzbuhel,Clay,2013,Bet-At-Home Cup,AUT
+Washington,Hard,2013,Citi Open,USA
+Montreal,Hard,2013,Rogers Masters,CAN
+Cincinnati,Hard,2013,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2013,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2013,US Open,USA
+Metz,Hard,2013,Open de Moselle,FRA
+St. Petersburg,Hard,2013,St. Petersburg Open,USA
+Bangkok,Hard,2013,Thailand Open,THA
+Kuala Lumpur,Hard,2013,Malaysian Open,MYS
+Shanghai,Hard,2013,Shanghai Masters,CHN
+Moscow,Hard,2013,Kremlin Cup,RUS
+Stockholm,Hard,2013,Stockholm Open,SWE
+Vienna,Hard,2013,Erste Bank Open,AUT
+Basel,Hard,2013,Swiss Indoors,CHE
+Valencia,Hard,2013,Valencia Open 500,VEN
+Paris,Hard,2013,BNP Paribas Masters,FRA
+London,Hard,2013,Masters Cup,GBR
+Brisbane,Hard,2014,Brisbane International,AUS
+Chennai,Hard,2014,Chennai Open,IND
+Doha,Hard,2014,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2014,Heineken Open,NZL
+Sydney,Hard,2014,Apia International,AUS
+Melbourne,Hard,2014,Australian Open,AUS
+Montpellier,Hard,2014,Open Sud de France,FRA
+Vina del Mar,Clay,2014,Royal Guard Open Chile,CHL
+Zagreb,Hard,2014,PBZ Zagreb Indoors,HRV
+Buenos Aires,Clay,2014,Copa Claro,ARG
+Memphis,Hard,2014,U.S. National Indoor Tennis Championships,USA
+Rotterdam,Hard,2014,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2014,Delray Beach Open,USA
+Marseille,Hard,2014,Open 13,FRA
+Rio de Janeiro,Clay,2014,Rio Open,BRA
+Acapulco,Hard,2014,Abierto Mexicano,MEX
+Dubai,Hard,2014,Dubai Tennis Championships,ARE
+Sao Paulo,Clay,2014,Brasil Open,BRA
+Indian Wells,Hard,2014,BNP Paribas Open,USA
+Miami,Hard,2014,Sony Ericsson Open,USA
+Casablanca,Clay,2014,Grand Prix Hassan II,MAR
+Houston,Clay,2014,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2014,Monte Carlo Masters,MCO
+Barcelona,Clay,2014,Open Banco Sabadell,ESP
+Bucharest,Clay,2014,BRD Nastase Tiriac Trophy,ROU
+Munich,Clay,2014,BMW Open,DEU
+Oeiras,Clay,2014,Portugal Open,PRT
+Madrid,Clay,2014,Mutua Madrid Open,ESP
+Rome,Clay,2014,Internazionali BNL d'Italia,ITA
+Dusseldorf,Clay,2014,Dusseldorf Open,DEU
+Nice,Clay,2014,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2014,French Open,FRA
+Halle,Grass,2014,Gerry Weber Open,DEU
+Queens Club,Grass,2014,AEGON Championships,GBR
+Eastbourne,Grass,2014,AEGON International,GBR
+'s-Hertogenbosch,Grass,2014,Topshelf Open,NLD
+London,Grass,2014,Wimbledon,GBR
+Bastad,Clay,2014,SkiStar Swedish Open,SWE
+Newport,Grass,2014,Hall of Fame Championships,USA
+Stuttgart,Clay,2014,Mercedes Cup,DEU
+Bogota,Clay,2014,Claro Open Colombia,USA
+Hamburg,Clay,2014,bet-at-home Open,DEU
+Atlanta,Hard,2014,BB&T Atlanta Open,USA
+Gstaad,Clay,2014,Crédit Agricole Suisse Open Gstaad,CHE
+Umag,Clay,2014,ATP Vegeta Croatia Open,HRV
+Kitzbuhel,Clay,2014,Bet-At-Home Cup,AUT
+Washington,Hard,2014,Citi Open,USA
+Toronto,Hard,2014,Rogers Masters,CAN
+Cincinnati,Hard,2014,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2014,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2014,US Open,USA
+Metz,Hard,2014,Open de Moselle,FRA
+Kuala Lumpur,Hard,2014,Malaysian Open,MYS
+Shenzhen,Hard,2014,Shenzhen Open,CHN
+Beijing,Hard,2014,China Open,CHN
+Tokyo,Hard,2014,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2014,Shanghai Masters,CHN
+Moscow,Hard,2014,Kremlin Cup,RUS
+Stockholm,Hard,2014,Stockholm Open,SWE
+Vienna,Hard,2014,Erste Bank Open,AUT
+Basel,Hard,2014,Swiss Indoors,CHE
+Valencia,Hard,2014,Valencia Open 500,VEN
+Paris,Hard,2014,BNP Paribas Masters,FRA
+London,Hard,2014,Masters Cup,GBR
+Brisbane,Hard,2015,Brisbane International,AUS
+Chennai,Hard,2015,Chennai Open,IND
+Doha,Hard,2015,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2015,Heineken Open,NZL
+Sydney,Hard,2015,Apia International,AUS
+Melbourne,Hard,2015,Australian Open,AUS
+Montpellier,Hard,2015,Open Sud de France,FRA
+Quito,Clay,2015,Ecuador Open,ECU
+Zagreb,Hard,2015,PBZ Zagreb Indoors,HRV
+Memphis,Hard,2015,Memphis Open,USA
+Rotterdam,Hard,2015,ABN AMRO World Tennis Tournament,NLD
+Sao Paulo,Clay,2015,Brasil Open,BRA
+Delray Beach,Hard,2015,Delray Beach Open,USA
+Marseille,Hard,2015,Open 13,FRA
+Rio de Janeiro,Clay,2015,Rio Open,BRA
+Acapulco,Hard,2015,Abierto Mexicano,MEX
+Buenos Aires,Clay,2015,Argentina Open,ARG
+Dubai,Hard,2015,Dubai Tennis Championships,ARE
+Indian Wells,Hard,2015,BNP Paribas Open,USA
+Miami,Hard,2015,Sony Ericsson Open,USA
+Casablanca,Clay,2015,Grand Prix Hassan II,MAR
+Houston,Clay,2015,U.S. Men's Clay Court Championships,USA
+Monte Carlo,Clay,2015,Monte Carlo Masters,MCO
+Barcelona,Clay,2015,Open Banco Sabadell,ESP
+Bucharest,Clay,2015,BRD Nastase Tiriac Trophy,ROU
+Estoril,Clay,2015,Millenium Estoril Open,PRT
+Istanbul,Clay,2015,Istanbul Open,TUR
+Munich,Clay,2015,BMW Open,DEU
+Madrid,Clay,2015,Mutua Madrid Open,ESP
+Rome,Clay,2015,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2015,Geneva Open,CHE
+Nice,Clay,2015,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2015,French Open,FRA
+'s-Hertogenbosch,Grass,2015,Topshelf Open,NLD
+Stuttgart,Grass,2015,Mercedes Cup,DEU
+Halle,Grass,2015,Gerry Weber Open,DEU
+Queens Club,Grass,2015,AEGON Championships,GBR
+Nottingham,Grass,2015,AEGON Open,GBR
+London,Grass,2015,Wimbledon,GBR
+Newport,Grass,2015,Hall of Fame Championships,USA
+Bastad,Clay,2015,SkiStar Swedish Open,SWE
+Bogota,Clay,2015,Claro Open Colombia,USA
+Umag,Clay,2015,Konzum Croatia Open,HRV
+Atlanta,Hard,2015,BB&T Atlanta Open,USA
+Gstaad,Clay,2015,Suisse Open Gstaad,CHE
+Hamburg,Clay,2015,bet-at-home Open,DEU
+Kitzbuhel,Clay,2015,Generali Open,AUT
+Washington,Hard,2015,Citi Open,USA
+Montreal,Hard,2015,Rogers Masters,CAN
+Cincinnati,Hard,2015,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2015,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2015,US Open,USA
+Metz,Hard,2015,Open de Moselle,FRA
+St. Petersburg,Hard,2015,St. Petersburg Open,USA
+Kuala Lumpur,Hard,2015,Malaysian Open,MYS
+Shenzhen,Hard,2015,Shenzhen Open,CHN
+Beijing,Hard,2015,China Open,CHN
+Tokyo,Hard,2015,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2015,Shanghai Masters,CHN
+Moscow,Hard,2015,Kremlin Cup,RUS
+Stockholm,Hard,2015,Stockholm Open,SWE
+Vienna,Hard,2015,Erste Bank Open,AUT
+Basel,Hard,2015,Swiss Indoors,CHE
+Valencia,Hard,2015,Valencia Open 500,VEN
+Paris,Hard,2015,BNP Paribas Masters,FRA
+London,Hard,2015,Masters Cup,GBR
+Brisbane,Hard,2016,Brisbane International,AUS
+Chennai,Hard,2016,Chennai Open,IND
+Doha,Hard,2016,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2016,ASB Classic,NZL
+Sydney,Hard,2016,Apia International,AUS
+Melbourne,Hard,2016,Australian Open,AUS
+Montpellier,Hard,2016,Open Sud de France,FRA
+Quito,Clay,2016,Ecuador Open,ECU
+Sofia,Hard,2016,Garanti Koza Sofia Open,BGR
+Buenos Aires,Clay,2016,Argentina Open,ARG
+Memphis,Hard,2016,Memphis Open,USA
+Rotterdam,Hard,2016,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2016,Delray Beach Open,USA
+Marseille,Hard,2016,Open 13,FRA
+Rio de Janeiro,Clay,2016,Rio Open,BRA
+Acapulco,Hard,2016,Abierto Mexicano,MEX
+Dubai,Hard,2016,Dubai Tennis Championships,ARE
+Sao Paulo,Clay,2016,Brasil Open,BRA
+Indian Wells,Hard,2016,BNP Paribas Open,USA
+Miami,Hard,2016,Sony Ericsson Open,USA
+Houston,Clay,2016,U.S. Men's Clay Court Championships,USA
+Marrakech,Clay,2016,Grand Prix Hassan II,MAR
+Monte Carlo,Clay,2016,Monte Carlo Masters,MCO
+Barcelona,Clay,2016,Open Banco Sabadell,ESP
+Bucharest,Clay,2016,BRD Nastase Tiriac Trophy,ROU
+Estoril,Clay,2016,Millenium Estoril Open,PRT
+Istanbul,Clay,2016,Istanbul Open,TUR
+Munich,Clay,2016,BMW Open,DEU
+Madrid,Clay,2016,Mutua Madrid Open,ESP
+Rome,Clay,2016,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2016,Geneva Open,CHE
+Nice,Clay,2016,Open de Nice Côte d’Azur,FRA
+Paris,Clay,2016,French Open,FRA
+'s-Hertogenbosch,Grass,2016,Topshelf Open,NLD
+Stuttgart,Grass,2016,Mercedes Cup,DEU
+Halle,Grass,2016,Gerry Weber Open,DEU
+Queens Club,Grass,2016,AEGON Championships,GBR
+Nottingham,Grass,2016,AEGON Open,GBR
+London,Grass,2016,Wimbledon,GBR
+Bastad,Clay,2016,SkiStar Swedish Open,SWE
+Hamburg,Clay,2016,German Tennis Championships,DEU
+Newport,Grass,2016,Hall of Fame Championships,USA
+Gstaad,Clay,2016,Suisse Open Gstaad,CHE
+Kitzbuhel,Clay,2016,Generali Open,AUT
+Umag,Clay,2016,Konzum Croatia Open,HRV
+Washington,Hard,2016,Citi Open,USA
+Toronto,Hard,2016,Rogers Masters,CAN
+Atlanta,Hard,2016,BB&T Atlanta Open,USA
+Los Cabos,Hard,2016,Abierto Mexicano Mifel,MEX
+Cincinnati,Hard,2016,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2016,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2016,US Open,USA
+Metz,Hard,2016,Open de Moselle,FRA
+St. Petersburg,Hard,2016,St. Petersburg Open,USA
+Chengdu,Hard,2016,Chengdu Open,CHN
+Shenzhen,Hard,2016,Shenzhen Open,CHN
+Beijing,Hard,2016,China Open,CHN
+Tokyo,Hard,2016,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2016,Shanghai Masters,CHN
+Antwerp,Hard,2016,European Open,BEL
+Moscow,Hard,2016,Kremlin Cup,RUS
+Stockholm,Hard,2016,Stockholm Open,SWE
+Basel,Hard,2016,Swiss Indoors,CHE
+Vienna,Hard,2016,Erste Bank Open,AUT
+Paris,Hard,2016,BNP Paribas Masters,FRA
+London,Hard,2016,Masters Cup,GBR
+Brisbane,Hard,2017,Brisbane International,AUS
+Chennai,Hard,2017,Chennai Open,IND
+Doha,Hard,2017,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2017,ASB Classic,NZL
+Sydney,Hard,2017,Apia International,AUS
+Melbourne,Hard,2017,Australian Open,AUS
+Montpellier,Hard,2017,Open Sud de France,FRA
+Quito,Clay,2017,Ecuador Open,ECU
+Sofia,Hard,2017,Garanti Koza Sofia Open,BGR
+Buenos Aires,Clay,2017,Argentina Open,ARG
+Memphis,Hard,2017,Memphis Open,USA
+Rotterdam,Hard,2017,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2017,Delray Beach Open,USA
+Marseille,Hard,2017,Open 13,FRA
+Rio de Janeiro,Clay,2017,Rio Open,BRA
+Acapulco,Hard,2017,Abierto Mexicano,MEX
+Dubai,Hard,2017,Dubai Tennis Championships,ARE
+Sao Paulo,Clay,2017,Brasil Open,BRA
+Indian Wells,Hard,2017,BNP Paribas Open,USA
+Miami,Hard,2017,Sony Ericsson Open,USA
+Houston,Clay,2017,U.S. Men's Clay Court Championships,USA
+Marrakech,Clay,2017,Grand Prix Hassan II,MAR
+Monte Carlo,Clay,2017,Monte Carlo Masters,MCO
+Barcelona,Clay,2017,Open Banco Sabadell ,ESP
+Budapest,Clay,2017,Gazprom Hungarian Open,HUN
+Estoril,Clay,2017,Millenium Estoril Open,PRT
+Istanbul,Clay,2017,Istanbul Open,TUR
+Munich,Clay,2017,BMW Open,DEU
+Madrid,Clay,2017,Mutua Madrid Open,ESP
+Rome,Clay,2017,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2017,Geneva Open,CHE
+Lyon,Clay,2017,Lyon Open,FRA
+Paris,Clay,2017,French Open,FRA
+'s-Hertogenbosch,Grass,2017,Ricoh Open,NLD
+Stuttgart,Grass,2017,Mercedes Cup,DEU
+Halle,Grass,2017,Gerry Weber Open,DEU
+Queens Club,Grass,2017,AEGON Championships,GBR
+Antalya,Grass,2017,Antalya Open,TUR
+Eastbourne,Grass,2017,AEGON International,GBR
+London,Grass,2017,Wimbledon,GBR
+Bastad,Clay,2017,SkiStar Swedish Open,SWE
+Newport,Grass,2017,Hall of Fame Championships,USA
+Umag,Clay,2017,Croatia Open,HRV
+Atlanta,Hard,2017,BB&T Atlanta Open,USA
+Gstaad,Clay,2017,Suisse Open Gstaad,CHE
+Hamburg,Clay,2017,German Tennis Championships,DEU
+Kitzbuhel,Clay,2017,Generali Open,AUT
+Los Cabos,Hard,2017,Abierto Mexicano Mifel,MEX
+Washington,Hard,2017,Citi Open,USA
+Montreal,Hard,2017,Rogers Masters,CAN
+Cincinnati,Hard,2017,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2017,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2017,US Open,USA
+Metz,Hard,2017,Open de Moselle,FRA
+St. Petersburg,Hard,2017,St. Petersburg Open,USA
+Chengdu,Hard,2017,Chengdu Open,CHN
+Shenzhen,Hard,2017,Shenzhen Open,CHN
+Beijing,Hard,2017,China Open,CHN
+Tokyo,Hard,2017,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2017,Shanghai Masters,CHN
+Antwerp,Hard,2017,European Open,BEL
+Moscow,Hard,2017,Kremlin Cup,RUS
+Stockholm,Hard,2017,Stockholm Open,SWE
+Basel,Hard,2017,Swiss Indoors,CHE
+Vienna,Hard,2017,Erste Bank Open,AUT
+Paris,Hard,2017,BNP Paribas Masters,FRA
+London,Hard,2017,Masters Cup,GBR
+Brisbane,Hard,2018,Brisbane International,AUS
+Doha,Hard,2018,Qatar Exxon Mobil Open,QAT
+Pune,Hard,2018,Tata Open,IND
+Auckland,Hard,2018,ASB Classic,NZL
+Sydney,Hard,2018,Sydney International,AUS
+Melbourne,Hard,2018,Australian Open,AUS
+Montpellier,Hard,2018,Open Sud de France,FRA
+Quito,Clay,2018,Ecuador Open,ECU
+Sofia,Hard,2018,Garanti Koza Sofia Open,BGR
+Buenos Aires,Clay,2018,Argentina Open,ARG
+New York,Hard,2018,New York Open,USA
+Rotterdam,Hard,2018,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2018,Delray Beach Open,USA
+Marseille,Hard,2018,Open 13,FRA
+Rio de Janeiro,Clay,2018,Rio Open,BRA
+Acapulco,Hard,2018,Abierto Mexicano,MEX
+Dubai,Hard,2018,Dubai Tennis Championships,ARE
+Sao Paulo,Clay,2018,Brasil Open,BRA
+Indian Wells,Hard,2018,BNP Paribas Open,USA
+Miami,Hard,2018,Sony Ericsson Open,USA
+Houston,Clay,2018,U.S. Men's Clay Court Championships,USA
+Marrakech,Clay,2018,Grand Prix Hassan II,MAR
+Monte Carlo,Clay,2018,Monte Carlo Masters,MCO
+Barcelona,Clay,2018,Open Banco Sabadell ,ESP
+Budapest,Clay,2018,Gazprom Hungarian Open,HUN
+Estoril,Clay,2018,Millennium Estoril Open,PRT
+Istanbul,Clay,2018,Istanbul Open,TUR
+Munich,Clay,2018,BMW Open,DEU
+Madrid,Clay,2018,Mutua Madrid Open,ESP
+Rome,Clay,2018,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2018,Geneva Open,CHE
+Lyon,Clay,2018,Lyon Open,FRA
+Paris,Clay,2018,French Open,FRA
+'s-Hertogenbosch,Grass,2018,Ricoh Open,NLD
+Stuttgart,Grass,2018,Mercedes Cup,DEU
+Halle,Grass,2018,Gerry Weber Open,DEU
+Queens Club,Grass,2018,AEGON Championships,GBR
+Antalya,Grass,2018,Antalya Open,TUR
+Eastbourne,Grass,2018,Eastbourne International,GBR
+London,Grass,2018,Wimbledon,GBR
+Bastad,Clay,2018,SkiStar Swedish Open,SWE
+Newport,Grass,2018,Hall of Fame Championships,USA
+Umag,Clay,2018,Croatia Open,HRV
+Atlanta,Hard,2018,BB&T Atlanta Open,USA
+Gstaad,Clay,2018,Suisse Open Gstaad,CHE
+Hamburg,Clay,2018,German Tennis Championships,DEU
+Kitzbuhel,Clay,2018,Generali Open,AUT
+Los Cabos,Hard,2018,Abierto Mexicano Mifel,MEX
+Washington,Hard,2018,Citi Open,USA
+Toronto,Hard,2018,Rogers Masters,CAN
+Cincinnati,Hard,2018,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2018,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2018,US Open,USA
+Metz,Hard,2018,Open de Moselle,FRA
+St. Petersburg,Hard,2018,St. Petersburg Open,USA
+Chengdu,Hard,2018,Chengdu Open,CHN
+Shenzhen,Hard,2018,Shenzhen Open,CHN
+Beijing,Hard,2018,China Open,CHN
+Tokyo,Hard,2018,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2018,Shanghai Masters,CHN
+Antwerp,Hard,2018,European Open,BEL
+Moscow,Hard,2018,Kremlin Cup,RUS
+Stockholm,Hard,2018,Stockholm Open,SWE
+Basel,Hard,2018,Swiss Indoors,CHE
+Vienna,Hard,2018,Erste Bank Open,AUT
+Paris,Hard,2018,BNP Paribas Masters,FRA
+London,Hard,2018,Masters Cup,GBR
+Brisbane,Hard,2019,Brisbane International,AUS
+Doha,Hard,2019,Qatar Exxon Mobil Open,QAT
+Pune,Hard,2018,Maharashtra Open,IND
+Pune,Hard,2019,Maharashtra Open,IND
+Auckland,Hard,2019,ASB Classic,NZL
+Sydney,Hard,2019,Sydney International,AUS
+Melbourne,Hard,2019,Australian Open,AUS
+Cordoba,Clay,2019,Cordoba Open,ESP
+Montpellier,Hard,2019,Open Sud de France,FRA
+Sofia,Hard,2019,Sofia Open,BGR
+Buenos Aires,Clay,2019,Argentina Open,ARG
+New York,Hard,2019,New York Open,USA
+Rotterdam,Hard,2019,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2019,Delray Beach Open,USA
+Marseille,Hard,2019,Open 13,FRA
+Rio de Janeiro,Clay,2019,Rio Open,BRA
+Acapulco,Hard,2019,Abierto Mexicano,MEX
+Dubai,Hard,2019,Dubai Tennis Championships,ARE
+Sao Paulo,Clay,2019,Brasil Open,BRA
+Indian Wells,Hard,2019,BNP Paribas Open,USA
+Miami,Hard,2019,Sony Ericsson Open,USA
+Houston,Clay,2019,U.S. Men's Clay Court Championships,USA
+Marrakech,Clay,2019,Grand Prix Hassan II,MAR
+Monte Carlo,Clay,2019,Monte Carlo Masters,MCO
+Barcelona,Clay,2019,Open Banco Sabadell ,ESP
+Budapest,Clay,2019,Hungarian Open,HUN
+Estoril,Clay,2019,Millennium Estoril Open,PRT
+Munich,Clay,2019,BMW Open,DEU
+Madrid,Clay,2019,Mutua Madrid Open,ESP
+Rome,Clay,2019,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2019,Geneva Open,CHE
+Lyon,Clay,2019,Lyon Open,FRA
+Paris,Clay,2019,French Open,FRA
+'s-Hertogenbosch,Grass,2019,Rosmalen Grass Court Championships,NLD
+Stuttgart,Grass,2019,Mercedes Cup,DEU
+Halle,Grass,2019,Halle Open,DEU
+Queens Club,Grass,2019,Queen's Club Championships,GBR
+Antalya,Grass,2019,Antalya Open,TUR
+Eastbourne,Grass,2019,Eastbourne International,GBR
+London,Grass,2019,Wimbledon,GBR
+Bastad,Clay,2019,SkiStar Swedish Open,SWE
+Newport,Grass,2019,Hall of Fame Championships,USA
+Umag,Clay,2019,Croatia Open,HRV
+Atlanta,Hard,2019,BB&T Atlanta Open,USA
+Gstaad,Clay,2019,Suisse Open Gstaad,CHE
+Hamburg,Clay,2019,German Tennis Championships,DEU
+Kitzbuhel,Clay,2019,Generali Open,AUT
+Los Cabos,Hard,2019,Abierto Mexicano Mifel,MEX
+Washington,Hard,2019,Citi Open,USA
+Montreal,Hard,2019,Rogers Masters,CAN
+Cincinnati,Hard,2019,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2019,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2019,US Open,USA
+Metz,Hard,2019,Open de Moselle,FRA
+St. Petersburg,Hard,2019,St. Petersburg Open,USA
+Chengdu,Hard,2019,Chengdu Open,CHN
+Zhuhai,Hard,2019,Zhuhai Open,CHN
+Beijing,Hard,2019,China Open,CHN
+Tokyo,Hard,2019,Rakuten Japan Open Tennis Championships,JPN
+Shanghai,Hard,2019,Shanghai Masters,CHN
+Antwerp,Hard,2019,European Open,BEL
+Moscow,Hard,2019,Kremlin Cup,RUS
+Stockholm,Hard,2019,Stockholm Open,SWE
+Basel,Hard,2019,Swiss Indoors,CHE
+Vienna,Hard,2019,Erste Bank Open,AUT
+Paris,Hard,2019,BNP Paribas Masters,FRA
+London,Hard,2019,Masters Cup,GBR
+Doha,Hard,2020,Qatar Exxon Mobil Open,QAT
+Auckland,Hard,2020,ASB Classic,NZL
+Adelaide,Hard,2020,Adelaide International,AUS
+Melbourne,Hard,2020,Australian Open,AUS
+Cordoba,Clay,2020,Cordoba Open,ESP
+Montpellier,Hard,2020,Open Sud de France,FRA
+Pune,Hard,2020,Maharashtra Open,IND
+Buenos Aires,Clay,2020,Argentina Open,ARG
+New York,Hard,2020,New York Open,USA
+Rotterdam,Hard,2020,ABN AMRO World Tennis Tournament,NLD
+Delray Beach,Hard,2020,Delray Beach Open,USA
+Marseille,Hard,2020,Open 13,FRA
+Rio de Janeiro,Clay,2020,Rio Open,BRA
+Acapulco,Hard,2020,Abierto Mexicano,MEX
+Dubai,Hard,2020,Dubai Tennis Championships,ARE
+Santiago,Clay,2020,Chile Open,CHL
+New York,Hard,2020,Western & Southern Financial Group Masters,USA
+Kitzbuhel,Clay,2020,Generali Open,AUT
+New York,Hard,2020,US Open,USA
+Rome,Clay,2020,Internazionali BNL d'Italia,ITA
+Hamburg,Clay,2020,German Tennis Championships,DEU
+Paris,Clay,2020,French Open,FRA
+Cologne,Hard,2020,bett1HULKS Indoors,DEU
+Sardinia,Clay,2020,Forte Village Sardegna Open,ITA
+St. Petersburg,Hard,2020,St. Petersburg Open,USA
+Antwerp,Hard,2020,European Open,BEL
+Cologne,Hard,2020,bett1HULKS Championship,DEU
+Nur-Sultan,Hard,2020,Astana Open,KAZ
+Vienna,Hard,2020,Erste Bank Open,AUT
+Paris,Hard,2020,BNP Paribas Masters,FRA
+Sofia,Hard,2020,Sofia Open,BGR
+London,Hard,2020,Masters Cup,GBR
+Antalya,Hard,2021,Antalya Open,TUR
+Delray Beach,Hard,2021,Delray Beach Open,USA
+Melbourne,Hard,2021,Great Ocean Road Open,AUS
+Melbourne,Hard,2021,Murray River Open,AUS
+Melbourne,Hard,2021,Australian Open,AUS
+Cordoba,Clay,2021,Cordoba Open,ESP
+Montpellier,Hard,2021,Open Sud de France,FRA
+Singapore,Hard,2021,Singapore Open,SGP
+Buenos Aires,Clay,2021,Argentina Open,ARG
+Rotterdam,Hard,2021,ABN AMRO World Tennis Tournament,NLD
+Doha,Hard,2021,Qatar Exxon Mobil Open,QAT
+Marseille,Hard,2021,Open 13,FRA
+Santiago,Clay,2021,Chile Open,CHL
+Acapulco,Hard,2021,Abierto Mexicano,MEX
+Dubai,Hard,2021,Dubai Tennis Championships,ARE
+Miami,Hard,2021,Miami Open,USA
+Cagliari,Hard,2021,Sardegna Open,ITA
+Marbella,Hard,2021,AnyTech365 Andalucia Open,ESP
+Monte Carlo,Clay,2021,Monte Carlo Masters,MCO
+Barcelona,Clay,2021,Barcelona Open,ESP
+Belgrade,Clay,2021,Serbia Open,SRB
+Estoril,Clay,2021,Millennium Estoril Open,PRT
+Munich,Clay,2021,BMW Open,DEU
+Madrid,Clay,2021,Mutua Madrid Open,ESP
+Rome,Clay,2021,Internazionali BNL d'Italia,ITA
+Geneva,Clay,2021,Geneva Open,CHE
+Lyon,Clay,2021,Lyon Open,FRA
+Belgrade,Clay,2021,Belgrade Open,SRB
+Parma,Clay,2021,Emilia-Romagna Open,ITA
+Paris,Clay,2021,French Open,FRA
+Stuttgart,Grass,2021,Mercedes Cup,DEU
+Halle,Grass,2021,Halle Open,DEU
+Queens Club,Grass,2021,Queen's Club Championships,GBR
+Eastbourne,Grass,2021,Viking International,GBR
+Mallorca,Grass,2021,Mallorca Championships,ESP
+London,Grass,2021,Wimbledon,GBR
+Bastad,Clay,2021,Nordea Open,SWE
+Hamburg,Clay,2021,European Open,DEU
+Newport,Grass,2021,Hall of Fame Championships,USA
+Gstaad,Clay,2021,Suisse Open Gstaad,CHE
+Los Cabos,Hard,2021,Mifel Open,MEX
+Umag,Clay,2021,Croatia Open,HRV
+Atlanta,Hard,2021,BB&T Atlanta Open,USA
+Kitzbuhel,Clay,2021,Generali Open,AUT
+Washington,Hard,2021,Citi Open,USA
+Toronto,Hard,2021,Canadian Open,CAN
+Cincinnati,Hard,2021,Western & Southern Financial Group Masters,USA
+Winston-Salem,Hard,2021,Winston-Salem Open at Wake Forest University,USA
+New York,Hard,2021,US Open,USA
+Metz,Hard,2021,Open de Moselle,FRA
+Nur-Sultan,Hard,2021,Astana Open,KAZ
+San Diego,Hard,2021,San Diego Open,USA
+Sofia,Hard,2021,Sofia Open,BGR
+Indian Wells,Hard,2021,BNP Paribas Open,USA
+Moscow,Hard,2021,Kremlin Cup,RUS
+St. Petersburg,Hard,2021,St. Petersburg Open,USA
+Vienna,Hard,2021,Vienna Open,AUT
